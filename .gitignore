@@ -138,3 +138,6 @@ dmypy.json
 # Ignore all local history of files
 .history
 .ionide
+
+# Added by me
+Private.py
