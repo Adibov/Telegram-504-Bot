@@ -1,5 +1,5 @@
 import requests
-import re
+import csv
 
 url = "https://www.vocabulary.com/lists/145774"
 body = ""
@@ -11,12 +11,12 @@ def get_body():
 	body = request.text
 
 def write_words_to_file():
-	with open("tmp.txt", "w") as f:
+	with open("site_html.txt", "w") as f:
 		f.write(body)
 
 def parse_words():
 	global words, definitions
-	with open("tmp.txt", "r") as f:
+	with open("site_html.txt", "r") as f:
 		num = 0
 		while True:
 			line = str(f.readline())
@@ -35,6 +35,14 @@ def parse_words():
 			elif "definition" in line:
 				num += 1
 
+def save_data():
+	with open("data.csv", "w") as f:
+		writer = csv.writer(f)
+		writer.writerow(["ID", "Word", "Definition"])
+		for i in range(len(words)):
+			writer.writerow([i + 1, words[i], definitions[i]])
+
 get_body()
 # write_words_to_file()
 parse_words()
+save_data()
