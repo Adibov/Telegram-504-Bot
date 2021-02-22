@@ -1,0 +1,8686 @@
+
+
+<!DOCTYPE html>
+<html xmlns:vcom xmlns:fb>
+<head>	
+	<title>504 Absolutely Essential Words - Vocabulary List : Vocabulary.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <meta name="robots" content="noarchive" />
+ 			<meta name="googlebot" content="noodp, noarchive" />		
+		
+	
+	
+    <link rel="canonical" href="https://www.vocabulary.com/lists/145774" >
+	<meta name="vocab:wordlist:id" content="145774">
+	<meta property="vocab:share:noun" content="Vocabulary List" >
+	
+	
+	<meta name="description" content="A vocabulary list featuring 504 Absolutely Essential Words. " />
+    <meta property="og:description" content="" >
+    
+    <meta name="helpwidget"  data-search="&#034;practicing a list&#034;"  />
+	
+ 
+	<link rel="search" type="application/opensearchdescription+xml" href="https://www.vocabulary.com/search.xml" title="Vocabulary.com" />    
+	<link href="//cdn.vocab.com/images/ios-icons/114x114-off5pn.png" rel="apple-touch-icon" >
+	<link href="//cdn.vocab.com/images/favicons/favicon-32x32-2frmtt.png" sizes="32x32" rel="icon" type="image/png" >
+	<link href="//cdn.vocab.com/images/favicons/favicon-16x16-uf6i7e.png" sizes="16x16" rel="icon" type="image/png" >
+
+	
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700|Merriweather:300italic,400italic,600italic,700italic,300,400,600,700" rel="stylesheet">
+	<link href="//cdn.vocab.com/css/header-t97vfb.css" rel="stylesheet" type="text/css" >
+	<link href="//cdn.vocab.com/css/main-1e3ztqp.css" rel="stylesheet" type="text/css" >
+	<link href="//cdn.vocab.com/css/progress-11hqkbl.css" rel="stylesheet" type="text/css" >
+	<link href="//cdn.vocab.com/css/dictionary-1t3mvgu.css" rel="stylesheet" type="text/css" >
+	<link href="//cdn.vocab.com/css/achievements-3q3fhj.css" rel="stylesheet" type="text/css" >
+	<link href="//cdn.vocab.com/css/leaderboards-hcvyb4.css" rel="stylesheet" type="text/css" >
+	
+	<link href="//cdn.vocab.com/css/fonts/ss-social-circle-9it211.css" rel="stylesheet" type="text/css" >	
+	<link href="//cdn.vocab.com/css/fonts/ss-symbolicons-block-vkz5h9.css" rel="stylesheet" type="text/css" >
+	<link href="//cdn.vocab.com/css/fonts/ss-standard-yavj9t.css" rel="stylesheet" type="text/css" >	
+		
+	<link href="//cdn.vocab.com/css/lists2-1505dh0.css" rel="stylesheet" type="text/css" >
+<link href="//cdn.vocab.com/css/wordlist2-9qy0fx.css" rel="stylesheet" type="text/css" >
+<style>
+	.filterMessage {
+		font-size: 12px;
+		background-color: #F9FDBA;
+		color: #707070;
+		padding: 8px;
+		border-radius: 10px;
+		margin: 1em auto;
+		text-align:  center;
+	}
+</style>
+			
+	
+	<script>
+		dataLayer = []; /* GTM Data Layer */
+		window.VCOM=(window.VCOM=function(){(VCOM.q=VCOM.q||[]).push(arguments)});
+		window.VCOM.__api_server = "https://api.vocabulary.com";
+	</script>
+	
+	
+	
+
+<script src="//cdn.vocab.com/js/module-mubcxx.js" type="text/javascript" ></script>
+	<script type="text/javascript">
+(function() {
+	window.__cmpmode = null;
+	
+	var cbs = [];
+	var status;
+    window.__cmp = function(cmd, cb, gdprApplies, consent) {
+    	if (cmd === 'getConsentData') {
+    		if (status) {
+    			cb(status);
+    		} else {
+    			cbs.push(cb);
+    		}
+    	} else if (cmd === 'cb') {
+    		status = {gdprApplies:gdprApplies, hasGlobalConsent:consent};
+    		for (var i = 0; i < cbs.length; i++) {
+    			cbs[i](status);
+    		}
+    	}
+	}
+    
+    var elem = document.createElement('script');
+    elem.src = '//cdn.vocab.com/js/vcom/cmp-ntjmco.js';
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+})();
+</script>
+<style>
+body .cookie-privacy-banner {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 9999;
+	padding: 1em 0;
+	font-size: 90%;
+	background: linear-gradient(rgba(51,82,109,.95) 0%,rgba(32,67,98,.95) 100%);
+	color: #e0e0e0;
+	display: none;
+}
+body.with-cookie-banner .cookie-privacy-banner {
+	display: block;
+}
+body.with-cookie-banner .page-footer {
+	padding-bottom: 18em;
+}
+.cookie-privacy-banner a {
+	color: #e0e0e0;
+}
+.cookie-privacy-banner p {
+	line-height: 125%;
+}
+.cookie-privacy-banner .i-agree {
+	margin-right: 2em;
+}
+.cookie-privacy-banner .choice {
+	font-weight: bold;
+}
+</style>
+	
+	<script>
+	Module.after(['jquery', 'vcom/base','vcom/usermenu' ],function(){});
+	</script>
+		
+	
+ <script>
+if ('URLSearchParams' in window) {
+	var ltiMode = new URLSearchParams(document.location.search).get('lti') || (window.name.indexOf('lti:')==0?window.name.substring(4):null);
+	if (ltiMode)  {	
+		var r = document.getElementsByTagName('link')[0],
+			l = document.createElement('link');
+		l.type='text/css';l.rel='stylesheet';l.href='//cdn.vocab.com/css/lti-1nzs3aw.css';
+		r.parentNode.insertBefore(l,r);
+		window.name='lti:'+ltiMode;
+		var html=document.getElementsByTagName('html')[0];
+		html.setAttribute('data-lti-mode',ltiMode);
+		html.classList.add("lti");		
+		Module.after(['jquery','vcom/lti'],function(){});
+	}
+}
+</script>
+	
+	<script type="text/javascript">
+Module.after(['params','jquery'],function() {
+
+	jQuery(function($) {
+	
+		$('#wlOrder').on('change',function() {
+			if (order[this.value]) {
+				orderBy(order[this.value]);
+			}
+		});
+			
+		$('.page_wordlist .viewSelector a').on('click',function(){
+			changeView($(this).data('view'));
+		});
+		
+		window.changeView = changeView;
+		function changeView(view) {	
+			var lastHash = ''+hashParams;
+			if (view=='notes') {
+				delete hashParams.view;	
+			} else {
+				hashParams.view = view;							
+			}
+			$('#view_'+view).addClass('selected').siblings('a').removeClass('selected');
+			if (view=='notes') {
+				$('#wordlist').addClass('notesView').removeClass('listView').trigger('resize');		
+				} else {			
+				$('#wordlist').addClass('listView').removeClass('notesView').trigger('resize');						
+			}
+			if (''+hashParams != lastHash)	setHash();
+		}
+		
+		function orderBy(compare) {
+			$('#wordlist li.entry').sort(compare).appendTo($('#wordlist').scrollTop(0));
+			order.current=compare;
+		}
+		
+		
+		
+		var order = {}
+		order.alpha=function(a,b){
+			a=a.getAttribute('word');
+			b=b.getAttribute('word');
+			var al = normalize(a);
+			var bl = normalize(b);
+			if (al==bl) {
+				return a==b ? 0 : a<b ? -1 : 1; 
+			} else {
+				return al<bl ? -1 : 1; 
+			}		
+		};
+		
+		function normalize(word) {
+			return word.toLowerCase().replace(/[-\/\'\s]+/,'');
+		}
+		
+		order.ralpha=reverse(order.alpha);
+		order.freq=function(a,b){
+			a=parseFloat(a.getAttribute('freq'));
+			b=parseFloat(b.getAttribute('freq'));
+			if (isNaN(a)) {
+				return (isNaN(b)) ? 0 : 1;
+			} else if (isNaN(b)) {
+				return -1;
+			}		
+			return (a==b) ? 0 : (a<b) ? -1 : 1;			
+		};
+		order.rfreq=reverse(order.freq);
+		order.natural=function(a,b) {
+			a=parseInt(a.id.substring(5));
+			b=parseInt(b.id.substring(5));		
+			return (a==b) ? 0 : (a<b) ? -1 : 1;
+		}
+		order.progress=function(a,b) {
+			a=parseFloat(a.getAttribute('prog'));
+			b=parseFloat(b.getAttribute('prog'));
+			if (isNaN(a)) return isNaN(b) ? 0 : 1;
+			if (isNaN(b)) return -1;
+			return (a==b) ? 0 : (a<b) ? 1 : -1;	
+		}
+		
+		order.current = order.natural;
+		
+		function reverse(fn) {
+			return function(a,b) { return -fn(a,b); }
+		}
+		
+		var hashParams = null;	
+		function updateHash() {	
+			hashParams = new modules.params.Params((document.location.hash) ? document.location.hash.substring(1):'');
+			changeView((hashParams.view=='list')?'list':'notes');
+		}
+		
+		function setHash() {
+			var hash = hashParams.toString();
+			if (hash.length || !window.history) {
+				document.location.hash= '#'+hashParams;
+			} else {
+				var loc = document.location.toString(), hm = loc.indexOf('#');
+				window.history.replaceState({},document.title,loc.substring(0,hm));
+			}
+		}
+		
+		$(window).on('hashchange',updateHash);
+		updateHash();
+	});
+});
+
+</script>
+
+
+
+<style>
+	.units {
+		margin: 2em 0;
+		font-size: 14px;
+		float: left;
+	}
+	.units h3 {
+		font-size: 16px;
+		border-bottom: 1px solid #ddd;
+		
+	}
+	.units ul {
+		padding: 0;
+		margin: .5em 0;
+	}
+	.units li {
+		padding: 0;
+	    margin: .25em 0;
+	    list-style: none;
+	    
+	}
+	.units li ul {
+		margin-left: 10px;
+		font-size: 13px;
+			    
+	}
+	.units li.selected {
+		font-weight: bold;
+	}
+	
+</style>
+
+	<script>
+(function(){
+	
+	VCOM('gdpr',function(){
+		var t = document.createElement('script');
+		t.async=true;
+		t.src='https://www.google-analytics.com/analytics.js';
+		document.head.appendChild(t);
+	});
+	
+
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-154986-6', 'auto');	
+	
+	VCOM('auth',function(auth){
+		if (auth.validUser) {
+			ga('set','dimension1',auth.paid?'paid':'free');
+			ga('set','dimension2',auth.ima||'other');
+			var role = (auth.auth && auth.auth.role) ? auth.auth.role.toLowerCase() : "";
+			if (role=='bill' && auth.plan) role = auth.plan;
+			if (role) ga('set','dimension3',role);
+			if (auth.classes && !auth.classes.empty)  ga('set','dimension4','inclass');
+						
+			if (window.dataLayer) {
+				dataLayer.push({
+					'userType': auth.ima,
+					'plan':  auth.plan || (auth.promo ? 'promo':'free')
+				});				
+			}
+		} else {
+			ga('set','dimension1','anon');
+			if (window.dataLayer) {
+				dataLayer.push({'userType': 'anonymous'});				
+			}			
+		}
+		ga('send', 'pageview');
+		
+				
+		
+		/* load GTM */
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-TN79ND');
+		
+	});	
+})();
+</script>
+	
+</head>
+<body class=" with-top-tab with-tab-lists top-section-lists ">
+<div class="body-wrapper">
+<header class="page-header noselect" role="banner"><div class="limited-width"><nav class="main">
+		<a href="/" title="Vocabulary.com" class="logo" ><img src="//cdn.vocab.com/images/header/logo-1wobq9i.png" alt="Vocabulary.com" class="screen-only" ><img src="//cdn.vocab.com/images/logo-sar2cf.svg" class="print-only" ></a>
+		<div class="logininfo"></div><button role="button" aria-pressed="false" aria-label="navigation menu" class="hamburger menu"><span class="rows"></span></button></nav><nav class="tabs"><ul ><li title="Play Vocabulary.com" class="playTab"><a  href="/play/"><span>LEARN</span></a></li><li title="Look up a word" class="dictTab empty"><a href="/dictionary/"><span>DICTIONARY</span></a></li><li title="Find a Vocabulary List" class="listsTab selected"><a href="/lists/"><span>VOCABULARY LISTS</span></a></li></ul></nav><div class="achievements"></div><div class="recent"></div></div></header>
+<div class="fixed-tray"></div>
+
+
+<div id="page" class="page">
+<div id="pageContent" class="pageContent clearfloat">
+<div class="page_wordlist view-words ">
+	<div class="with-header-margin">
+
+
+
+<div class="listnav-spacer"></div><nav class="listnav"><ul class="limited-width">
+	<li class=""><a href="/lists/" role="button">Featured<span class="hide-mobile"> Lists</span></a></li>
+	<li class="expandable"><a role="button" >
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		By Subject
+	<label class="open-menu"><span></span></label></a>
+	<nav class="dropdown">
+		<ul >
+		<li class=""><a class="ss-openbook" href="/lists/literature/">Literature</a></li>
+		<li class=""><a class="ss-telescope ss-symbolicons-block" href="/lists/non-fiction/">Non-Fiction</a></li>
+		<li class=""><a class="ss-books ss-symbolicons-block" href="/lists/textbooks-and-curricula/">Textbooks &amp; Curricula</a></li>
+		<li class="" ><a class="ss-write" href="/lists/test-prep/">Test Prep</a></li>
+		<li class=""><a class="ss-fork" href="/lists/morphology-and-roots/">Morphology &amp; Roots</a></li>
+		<li class=""><a class="ss-feather ss-symbolicons-block" href="/lists/historical-documents/">Historical Documents</a></li>
+		<li class=""><a class="ss-mic" href="/lists/speeches/">Speeches</a></li>
+		<li class=""><a class="ss-happyrobot  ss-symbolicons-block" href="/lists/just-for-fun/">Just For Fun</a></li>
+		<li class=""><a class="ss-newspaper" href="/lists/news/">News</a></li>
+		</ul>
+	</nav>
+	</li>
+	<li class=""><a href="/account/lists" role="button">My Lists</a></li>
+	<li class="search"><form class="ss-search" action="/lists/search"><input type="text" name="query" autocomplete="off" placeholder="Search for vocabulary lists" ></form></li>
+	<li class="newlist"><form  action="/lists/new"><button type="submit" class="green ss-plus">New <span class="hide-mobile">List</span></button></form></li>
+</ul></nav>
+<script>
+Module.after(['jquery','params'],function(){
+	jQuery(function($){
+		var $nav = $('nav.listnav');
+		$nav.find(' .expandable').on('click',function(){
+			$(this).toggleClass('open');
+		});
+		var params=modules.params.parse();
+		if (params.query) {
+			$nav.find('.search input').val(params.query);
+		}		
+		
+		$(window).on('scroll',updateFixed);
+		
+		var $spacer = $('.listnav-spacer');
+		var $header = $('header.page-header');
+
+		function updateFixed() {
+			var st  =$(window).scrollTop(), 
+			    fixed = ($spacer.offset().top - $header.height()) -  st < 0;
+			
+			$nav.toggleClass('fixed', fixed );
+			
+			
+			$spacer.css('height', fixed ? $nav.height():'');
+		}
+		
+		updateFixed();
+		
+	});
+});
+</script>
+</div>
+
+
+
+<header class="with-tabs"><div class="wrapper">		
+
+		<div class="limited-width">
+		
+						
+		<div class="titleblock">
+			
+			
+			
+			<div class="details">
+				<h1 class="dynamictext">504 Absolutely Essential Words</h1>
+				<div class="byline">
+				<span class="profileLink"><a href="/profiles/B0L9TSZ8AF2DAP" target="_top">Arash K.</a><span class="badges"></span></span>						
+				</div>
+			
+			
+					
+			
+			</div>
+						
+			<div class="tools" >
+			
+			
+			<div class="item tools" data-wordlist-id="145774"
+			                        data-learning="false"
+			                        data-learnable="477"
+			                        data-unlearnable="13" 
+			                        data-progress="0"
+			                        data-bookmarked="false">				
+			                 
+				<vcom:share itemtype="list" label="Share this list..." ></vcom:share>
+				
+			   	                    
+				<a class="button" href="javascript:void(0);" data-action="copy"><i class="ss-fill icon"></i> Copy this list to...</a>			
+													
+			</div>
+						
+			<script>Module.after('vcom/listtools');</script>
+		</div>
+			
+			
+		</div>
+		<nav class="tabbar">
+			<a class="selected" href="/lists/145774">Learn &amp; Explore</a>	
+			<a class="ss-attach assign"  href="/lists/145774/assign">Assign</a>
+		</nav>
+		
+		<script>
+		Module.after(['jquery'],function() {
+			jQuery(function($){
+				var $desc = $('.titleblock .description').addClass('v-overflow');
+				$desc.find('.readmore').one('click',function(){
+					$desc.toggleClass('open');
+					$(window).off('resize orientationchange',reclamp);
+				});
+				function reclamp() {		
+					$desc.toggleClass('v-overflowed',$desc.length && $desc[0].scrollHeight > $desc.height());		
+				}
+				$(window).on('resize orientationchange',reclamp);
+				reclamp();	
+			});
+		});
+		</script>
+
+		
+	</div>
+</div></header>
+
+
+
+			
+		
+		
+	<div class="limited-width">
+	
+	
+	<section class="learn">
+	<h3>Start learning with an activity...</h3>
+	<section class="activities screen-only cards"> 			
+			
+	<div class="limited-width">
+	
+	<div class="activity-picker" data-mode="p" data-list-id="145774" >
+		<ul class="activity-list">
+			<li role="button" class="practice selected" data-activity-type="p">
+				<h4><i></i><span>Practice</span></h4>
+				<blockquote>Answer a few questions on each word. Get one wrong? We'll ask some follow-up questions. Use it to prep for your next quiz!</blockquote>					
+				<div class="actions"></div>
+				<div class="upnext"></div>
+				
+			</li>
+			<li role="button" class="bee" data-activity-type="s">
+				<h4><i></i><span>Spelling Bee</span></h4>
+				<blockquote>Test your spelling acumen. See the definition, listen to the word, then try to spell it correctly. <span class="hide-mobile">Beat your last streak, or best your overall time. Spellers of the world, untie!</span></blockquote>					
+				<div class="actions"></div>
+				<div class="upnext"></div>
+			</li>
+			
+			<li role="button" class="jam" data-activity-type="j">
+				<h4><i></i><span>Vocabulary Jam</span></h4>
+				<blockquote>Compete head-to-head in real-time to see which team can answer the most questions correctly. <span class="hide-mobile">Start a Jam and invite your friends and classmates to join!</span></blockquote>					
+				<div class="actions"></div>
+				<div class="upnext"></div>
+			</li>
+			
+		</ul>
+	
+		
+		<ul class="items">
+			<li data-list-id="145774"> 
+			<div class="assignments"></div>
+			<div class="actions"></div>
+			<div class="activity-history"></div>
+			</li>
+		</ul>	
+			
+	</div>
+				
+	<script>
+	Module.after(['jquery','vcom/units/viewer'],function() {
+		jQuery('.activity-picker').activityPicker();
+	});
+	</script>	
+</div>		
+</section>
+
+	</section>
+
+	<section class="mastery" data-module="vcom/listtools" data-method="masteryWidget" data-list-id="145774"></section>
+
+	
+	<section class="explore">
+	<div class="row">
+	<h3>Explore the Words</h3>
+	<div class="viewSelector">
+		<label>show:</label>
+		<a data-view="notes" href="#view=notes" id="view_notes">definitions &amp; notes</a>
+		<a data-view="list" href="#view=list" id="view_list">only words</a>			
+		
+		<select id="wlOrder">
+		<option value="natural">in list order</option>
+		<option value="alpha">from A to Z</option>
+		<option value="ralpha">from Z to A</option>
+		<option value="freq">from easy to hard</option>
+		<option value="rfreq">from hard to easy</option>
+		
+	</select>
+	</div>
+		
+	</div>
+	
+	
+	<ol class="wordlist notesView" id="wordlist">	
+
+
+
+
+
+<li class="entry learnable" id="entry0"
+ lang="en" word="abandon" freq="104.31" >
+ 
+<a class="word dynamictext" href="/dictionary/abandon">abandon</a>	
+<div class="definition">forsake; leave behind</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry1"
+ lang="en" word="abide" freq="378.87" >
+ 
+<a class="word dynamictext" href="/dictionary/abide">abide</a>	
+<div class="definition">dwell</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry2"
+ lang="en" word="abolish" freq="245.97" >
+ 
+<a class="word dynamictext" href="/dictionary/abolish">abolish</a>	
+<div class="definition">do away with</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry3"
+ lang="en" word="abroad" freq="136.78" >
+ 
+<a class="word dynamictext" href="/dictionary/abroad">abroad</a>	
+<div class="definition">to or in a foreign country</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry4"
+ lang="en" word="absorb" freq="158.19" >
+ 
+<a class="word dynamictext" href="/dictionary/absorb">absorb</a>	
+<div class="definition">take in a liquid</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry5"
+ lang="en" word="absurd" freq="167.48" >
+ 
+<a class="word dynamictext" href="/dictionary/absurd">absurd</a>	
+<div class="definition">inconsistent with reason or logic or common sense</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry6"
+ lang="en" word="abundant" freq="144.68" >
+ 
+<a class="word dynamictext" href="/dictionary/abundant">abundant</a>	
+<div class="definition">present in great quantity</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry7"
+ lang="en" word="abuse" freq="148.83" >
+ 
+<a class="word dynamictext" href="/dictionary/abuse">abuse</a>	
+<div class="definition">cruel or inhumane treatment</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry8"
+ lang="en" word="accurate" freq="135.89" >
+ 
+<a class="word dynamictext" href="/dictionary/accurate">accurate</a>	
+<div class="definition">characterized by perfect conformity to fact or truth </div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry9"
+ lang="en" word="acknowledge" freq="103.21" >
+ 
+<a class="word dynamictext" href="/dictionary/acknowledge">acknowledge</a>	
+<div class="definition">declare to be true or admit the existence or reality of</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry10"
+ lang="en" word="addict" freq="737.5" >
+ 
+<a class="word dynamictext" href="/dictionary/addict">addict</a>	
+<div class="definition">to cause to become dependent</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry11"
+ lang="en" word="adequate" freq="218.35" >
+ 
+<a class="word dynamictext" href="/dictionary/adequate">adequate</a>	
+<div class="definition">having the requisite qualities or resources to meet a task</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry12"
+ lang="en" word="adolescent" freq="1468.14" >
+ 
+<a class="word dynamictext" href="/dictionary/adolescent">adolescent</a>	
+<div class="definition">a juvenile between the onset of puberty and maturity</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry13"
+ lang="en" word="alter" freq="120.82" >
+ 
+<a class="word dynamictext" href="/dictionary/alter">alter</a>	
+<div class="definition">cause to change; make different</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry14"
+ lang="en" word="amateur" freq="451.9" >
+ 
+<a class="word dynamictext" href="/dictionary/amateur">amateur</a>	
+<div class="definition">someone who pursues a study or sport as a pastime</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry15"
+ lang="en" word="ambush" freq="996.31" >
+ 
+<a class="word dynamictext" href="/dictionary/ambush">ambush</a>	
+<div class="definition">concealing yourself and lying in wait to attack by surprise</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry16"
+ lang="en" word="annual" freq="114.68" >
+ 
+<a class="word dynamictext" href="/dictionary/annual">annual</a>	
+<div class="definition">occurring every year</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry17"
+ lang="en" word="anticipate" freq="164.53" >
+ 
+<a class="word dynamictext" href="/dictionary/anticipate">anticipate</a>	
+<div class="definition">regard something as probable or likely</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry18"
+ lang="en" word="appeal" freq="72.01" >
+ 
+<a class="word dynamictext" href="/dictionary/appeal">appeal</a>	
+<div class="definition">earnest or urgent request</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry19"
+ lang="en" word="appoint" freq="59.5" >
+ 
+<a class="word dynamictext" href="/dictionary/appoint">appoint</a>	
+<div class="definition">assign a duty, responsibility, or obligation to</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry20"
+ lang="en" word="approach" freq="42.27" >
+ 
+<a class="word dynamictext" href="/dictionary/approach">approach</a>	
+<div class="definition">move towards</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry21"
+ lang="en" word="appropriate" freq="160.02" >
+ 
+<a class="word dynamictext" href="/dictionary/appropriate">appropriate</a>	
+<div class="definition">suitable for a particular person, place, or situation</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry22"
+ lang="en" word="architect" freq="397.54" >
+ 
+<a class="word dynamictext" href="/dictionary/architect">architect</a>	
+<div class="definition">someone who creates plans to be used in making something</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry23"
+ lang="en" word="assemble" freq="141.55" >
+ 
+<a class="word dynamictext" href="/dictionary/assemble">assemble</a>	
+<div class="definition">create by putting components or members together</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry24"
+ lang="en" word="attract" freq="66.58" >
+ 
+<a class="word dynamictext" href="/dictionary/attract">attract</a>	
+<div class="definition">exert a force on</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry25"
+ lang="en" word="audible" freq="537.68" >
+ 
+<a class="word dynamictext" href="/dictionary/audible">audible</a>	
+<div class="definition">heard or perceptible by the ear</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry26"
+ lang="en" word="authority" freq="41.26" >
+ 
+<a class="word dynamictext" href="/dictionary/authority">authority</a>	
+<div class="definition">the power or right to give orders or make decisions</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry27"
+ lang="en" word="avoid" freq="69.49" >
+ 
+<a class="word dynamictext" href="/dictionary/avoid">avoid</a>	
+<div class="definition">stay away from</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry28"
+ lang="en" word="aware" freq="86.34" >
+ 
+<a class="word dynamictext" href="/dictionary/aware">aware</a>	
+<div class="definition"> having or showing knowledge or understanding or realization</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry29"
+ lang="en" word="awesome" freq="2330.85" >
+ 
+<a class="word dynamictext" href="/dictionary/awesome">awesome</a>	
+<div class="definition">inspiring admiration or wonder</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry30"
+ lang="en" word="awkward" freq="271.75" >
+ 
+<a class="word dynamictext" href="/dictionary/awkward">awkward</a>	
+<div class="definition">lacking grace or skill in manner or movement or performance</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry31"
+ lang="en" word="bachelor" freq="549.61" >
+ 
+<a class="word dynamictext" href="/dictionary/bachelor">bachelor</a>	
+<div class="definition">a man who has never been married</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry32"
+ lang="en" word="baffle" freq="524.84" >
+ 
+<a class="word dynamictext" href="/dictionary/baffle">baffle</a>	
+<div class="definition">be a mystery or bewildering to</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry" id="entry33"
+ lang="en" word="baggage" freq="533.4" >
+ 
+<a class="word dynamictext" href="/dictionary/baggage">baggage</a>	
+<div class="definition">cases used to carry belongings when traveling</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry34"
+ lang="en" word="bait" freq="617.36" >
+ 
+<a class="word dynamictext" href="/dictionary/bait">bait</a>	
+<div class="definition">something used to lure fish or other animals</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry35"
+ lang="en" word="ban" freq="355.54" >
+ 
+<a class="word dynamictext" href="/dictionary/ban">ban</a>	
+<div class="definition">prohibit especially by law or social pressure</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry36"
+ lang="en" word="beckon" freq="617.3" >
+ 
+<a class="word dynamictext" href="/dictionary/beckon">beckon</a>	
+<div class="definition">summon with a wave, nod, or some other gesture</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry37"
+ lang="en" word="beneficiary" freq="2746.48" >
+ 
+<a class="word dynamictext" href="/dictionary/beneficiary">beneficiary</a>	
+<div class="definition">the recipient of funds or other advantages</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry38"
+ lang="en" word="betray" freq="147.87" >
+ 
+<a class="word dynamictext" href="/dictionary/betray">betray</a>	
+<div class="definition">deliver to an enemy by treachery</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry39"
+ lang="en" word="bewildered" freq="456.78" >
+ 
+<a class="word dynamictext" href="/dictionary/bewildered">bewildered</a>	
+<div class="definition">perplexed by many conflicting situations or statements</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry40"
+ lang="en" word="bigamy" freq="7168.56" >
+ 
+<a class="word dynamictext" href="/dictionary/bigamy">bigamy</a>	
+<div class="definition">the offense of marrying someone while you have a spouse</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry41"
+ lang="en" word="biography" freq="315.28" >
+ 
+<a class="word dynamictext" href="/dictionary/biography">biography</a>	
+<div class="definition">an account of the series of events making up a person's life</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry42"
+ lang="en" word="blunder" freq="492.06" >
+ 
+<a class="word dynamictext" href="/dictionary/blunder">blunder</a>	
+<div class="definition">an embarrassing mistake</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry43"
+ lang="en" word="brawl" freq="1484.91" >
+ 
+<a class="word dynamictext" href="/dictionary/brawl">brawl</a>	
+<div class="definition">quarrel or fight noisily, angrily or disruptively</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry44"
+ lang="en" word="brutal" freq="288.77" >
+ 
+<a class="word dynamictext" href="/dictionary/brutal">brutal</a>	
+<div class="definition">resembling a beast; showing lack of human sensibility</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry45"
+ lang="en" word="budget" freq="161.18" >
+ 
+<a class="word dynamictext" href="/dictionary/budget">budget</a>	
+<div class="definition">a summary of intended expenditures</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry46"
+ lang="en" word="bulky" freq="1825.53" >
+ 
+<a class="word dynamictext" href="/dictionary/bulky">bulky</a>	
+<div class="definition">of large size for its weight</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry47"
+ lang="en" word="burden" freq="129.78" >
+ 
+<a class="word dynamictext" href="/dictionary/burden">burden</a>	
+<div class="definition">weight to be carried or borne</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry48"
+ lang="en" word="calamity" freq="413.77" >
+ 
+<a class="word dynamictext" href="/dictionary/calamity">calamity</a>	
+<div class="definition">an event resulting in great loss and misfortune</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry49"
+ lang="en" word="calculate" freq="127.83" >
+ 
+<a class="word dynamictext" href="/dictionary/calculate">calculate</a>	
+<div class="definition">make a mathematical computation</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry50"
+ lang="en" word="campus" freq="702.94" >
+ 
+<a class="word dynamictext" href="/dictionary/campus">campus</a>	
+<div class="definition">a field on which the buildings of a university are situated</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry51"
+ lang="en" word="cancel" freq="482.26" >
+ 
+<a class="word dynamictext" href="/dictionary/cancel">cancel</a>	
+<div class="definition">declare null and void</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry52"
+ lang="en" word="candidate" freq="132.43" >
+ 
+<a class="word dynamictext" href="/dictionary/candidate">candidate</a>	
+<div class="definition">someone who is considered for something</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry53"
+ lang="en" word="capacity" freq="133.08" >
+ 
+<a class="word dynamictext" href="/dictionary/capacity">capacity</a>	
+<div class="definition">capability to perform or produce</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry54"
+ lang="en" word="capsule" freq="1588.12" >
+ 
+<a class="word dynamictext" href="/dictionary/capsule">capsule</a>	
+<div class="definition">a small container</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry55"
+ lang="en" word="captive" freq="188.24" >
+ 
+<a class="word dynamictext" href="/dictionary/captive">captive</a>	
+<div class="definition">a person who is confined; especially a prisoner of war</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry56"
+ lang="en" word="casual" freq="374.74" >
+ 
+<a class="word dynamictext" href="/dictionary/casual">casual</a>	
+<div class="definition">without or seeming to be without plan or method; offhand</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry57"
+ lang="en" word="caution" freq="89.97" >
+ 
+<a class="word dynamictext" href="/dictionary/caution">caution</a>	
+<div class="definition">judiciousness in avoiding harm or danger</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry58"
+ lang="en" word="cease" freq="64.11" >
+ 
+<a class="word dynamictext" href="/dictionary/cease">cease</a>	
+<div class="definition">put an end to a state or an activity</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry59"
+ lang="en" word="censor" freq="647.54" >
+ 
+<a class="word dynamictext" href="/dictionary/censor">censor</a>	
+<div class="definition">a person authorized to suppress unacceptable material</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry60"
+ lang="en" word="century" freq="41.16" >
+ 
+<a class="word dynamictext" href="/dictionary/century">century</a>	
+<div class="definition">a period of 100 years</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry61"
+ lang="en" word="challenge" freq="113.76" >
+ 
+<a class="word dynamictext" href="/dictionary/challenge">challenge</a>	
+<div class="definition">a call to engage in a contest or fight</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry62"
+ lang="en" word="charity" freq="140.16" >
+ 
+<a class="word dynamictext" href="/dictionary/charity">charity</a>	
+<div class="definition">an institution set up to provide help to the needy</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry" id="entry63"
+ lang="en" word="chiropractor" freq="30463.14" >
+ 
+<a class="word dynamictext" href="/dictionary/chiropractor">chiropractor</a>	
+<div class="definition">a therapist who practices chiropractic</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry64"
+ lang="en" word="cinema" freq="807.23" >
+ 
+<a class="word dynamictext" href="/dictionary/cinema">cinema</a>	
+<div class="definition">a medium that disseminates moving pictures</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry65"
+ lang="en" word="circulate" freq="244.51" >
+ 
+<a class="word dynamictext" href="/dictionary/circulate">circulate</a>	
+<div class="definition">move through a system and return to the starting point</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry66"
+ lang="en" word="clergy" freq="341.58" >
+ 
+<a class="word dynamictext" href="/dictionary/clergy">clergy</a>	
+<div class="definition">the entire class of religious officials</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry67"
+ lang="en" word="client" freq="233.72" >
+ 
+<a class="word dynamictext" href="/dictionary/client">client</a>	
+<div class="definition">someone who pays for goods or services</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry68"
+ lang="en" word="coeducational" freq="54467.87" >
+ 
+<a class="word dynamictext" href="/dictionary/coeducational">coeducational</a>	
+<div class="definition">attended by members of both sexes</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry69"
+ lang="en" word="coincide" freq="406.91" >
+ 
+<a class="word dynamictext" href="/dictionary/coincide">coincide</a>	
+<div class="definition">happen simultaneously</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry70"
+ lang="en" word="collapse" freq="311.98" >
+ 
+<a class="word dynamictext" href="/dictionary/collapse">collapse</a>	
+<div class="definition">break down, literally or metaphorically</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry71"
+ lang="en" word="colleague" freq="215.4" >
+ 
+<a class="word dynamictext" href="/dictionary/colleague">colleague</a>	
+<div class="definition">an associate that one works with</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry72"
+ lang="en" word="collide" freq="612.29" >
+ 
+<a class="word dynamictext" href="/dictionary/collide">collide</a>	
+<div class="definition">crash together with violent impact</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry73"
+ lang="en" word="commence" freq="109.92" >
+ 
+<a class="word dynamictext" href="/dictionary/commence">commence</a>	
+<div class="definition">set in motion, cause to start</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry74"
+ lang="en" word="commend" freq="87.16" >
+ 
+<a class="word dynamictext" href="/dictionary/commend">commend</a>	
+<div class="definition">present as worthy of regard, kindness, or confidence</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry75"
+ lang="en" word="commuter" freq="3635.47" >
+ 
+<a class="word dynamictext" href="/dictionary/commuter">commuter</a>	
+<div class="definition">someone who travels regularly to and from work</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry76"
+ lang="en" word="compel" freq="97.22" >
+ 
+<a class="word dynamictext" href="/dictionary/compel">compel</a>	
+<div class="definition">force somebody to do something</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry77"
+ lang="en" word="compete" freq="89.55" >
+ 
+<a class="word dynamictext" href="/dictionary/compete">compete</a>	
+<div class="definition">engage in a contest or measure oneself against others</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry78"
+ lang="en" word="complacent" freq="656.28" >
+ 
+<a class="word dynamictext" href="/dictionary/complacent">complacent</a>	
+<div class="definition">contented to a fault with oneself or one's actions</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry79"
+ lang="en" word="comprehend" freq="128.12" >
+ 
+<a class="word dynamictext" href="/dictionary/comprehend">comprehend</a>	
+<div class="definition">get the meaning of something</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry80"
+ lang="en" word="comprehensive" freq="568.85" >
+ 
+<a class="word dynamictext" href="/dictionary/comprehensive">comprehensive</a>	
+<div class="definition">including all or everything</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry81"
+ lang="en" word="conceal" freq="102.64" >
+ 
+<a class="word dynamictext" href="/dictionary/conceal">conceal</a>	
+<div class="definition">prevent from being seen or discovered</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry82"
+ lang="en" word="conclude" freq="48.24" >
+ 
+<a class="word dynamictext" href="/dictionary/conclude">conclude</a>	
+<div class="definition">bring to a close</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry83"
+ lang="en" word="confident" freq="50.89" >
+ 
+<a class="word dynamictext" href="/dictionary/confident">confident</a>	
+<div class="definition">having or marked by assurance</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry84"
+ lang="en" word="confine" freq="129.54" >
+ 
+<a class="word dynamictext" href="/dictionary/confine">confine</a>	
+<div class="definition">place limits on</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry85"
+ lang="en" word="confirm" freq="116.24" >
+ 
+<a class="word dynamictext" href="/dictionary/confirm">confirm</a>	
+<div class="definition">strengthen</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry86"
+ lang="en" word="conflict" freq="145.61" >
+ 
+<a class="word dynamictext" href="/dictionary/conflict">conflict</a>	
+<div class="definition">an open clash between two opposing groups</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry87"
+ lang="en" word="consider" freq="16.38" >
+ 
+<a class="word dynamictext" href="/dictionary/consider">consider</a>	
+<div class="definition">think about carefully; weigh</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry88"
+ lang="en" word="contagious" freq="1778.34" >
+ 
+<a class="word dynamictext" href="/dictionary/contagious">contagious</a>	
+<div class="definition">capable of being transmitted by infection</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry89"
+ lang="en" word="corpse" freq="482.14" >
+ 
+<a class="word dynamictext" href="/dictionary/corpse">corpse</a>	
+<div class="definition">the dead body of a human being</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry90"
+ lang="en" word="crafty" freq="1073.24" >
+ 
+<a class="word dynamictext" href="/dictionary/crafty">crafty</a>	
+<div class="definition">marked by skill in deception</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry91"
+ lang="en" word="culprit" freq="1160.67" >
+ 
+<a class="word dynamictext" href="/dictionary/culprit">culprit</a>	
+<div class="definition">someone or something responsible for harm or wrongdoing</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry92"
+ lang="en" word="customary" freq="448.8" >
+ 
+<a class="word dynamictext" href="/dictionary/customary">customary</a>	
+<div class="definition">commonly used or practiced</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry93"
+ lang="en" word="data" freq="175.96" >
+ 
+<a class="word dynamictext" href="/dictionary/data">data</a>	
+<div class="definition">a collection of facts from which conclusions may be drawn</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry94"
+ lang="en" word="daze" freq="767.54" >
+ 
+<a class="word dynamictext" href="/dictionary/daze">daze</a>	
+<div class="definition">confusion characterized by lack of clarity</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry95"
+ lang="en" word="debate" freq="140.72" >
+ 
+<a class="word dynamictext" href="/dictionary/debate">debate</a>	
+<div class="definition">a discussion with reasons for and against some proposal</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry96"
+ lang="en" word="debtor" freq="1173.43" >
+ 
+<a class="word dynamictext" href="/dictionary/debtor">debtor</a>	
+<div class="definition">a person who owes a creditor</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry97"
+ lang="en" word="decade" freq="177.18" >
+ 
+<a class="word dynamictext" href="/dictionary/decade">decade</a>	
+<div class="definition">a period of 10 years</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry98"
+ lang="en" word="deceive" freq="131.63" >
+ 
+<a class="word dynamictext" href="/dictionary/deceive">deceive</a>	
+<div class="definition">cause someone to believe an untruth</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry99"
+ lang="en" word="decrease" freq="538.56" >
+ 
+<a class="word dynamictext" href="/dictionary/decrease">decrease</a>	
+<div class="definition">a change downward</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry100"
+ lang="en" word="defect" freq="216.95" >
+ 
+<a class="word dynamictext" href="/dictionary/defect">defect</a>	
+<div class="definition">a failing or deficiency</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry101"
+ lang="en" word="defiant" freq="275.33" >
+ 
+<a class="word dynamictext" href="/dictionary/defiant">defiant</a>	
+<div class="definition">boldly resisting authority or an opposing force</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry102"
+ lang="en" word="defraud" freq="2142.57" >
+ 
+<a class="word dynamictext" href="/dictionary/defraud">defraud</a>	
+<div class="definition">deprive of by deceit</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry103"
+ lang="en" word="dejected" freq="1391.67" >
+ 
+<a class="word dynamictext" href="/dictionary/dejected">dejected</a>	
+<div class="definition">affected or marked by low spirits</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry104"
+ lang="en" word="deliberate" freq="149.9" >
+ 
+<a class="word dynamictext" href="/dictionary/deliberate">deliberate</a>	
+<div class="definition">carefully thought out in advance</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry105"
+ lang="en" word="delinquent" freq="1495.98" >
+ 
+<a class="word dynamictext" href="/dictionary/delinquent">delinquent</a>	
+<div class="definition">a young offender</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry106"
+ lang="en" word="denounce" freq="386.65" >
+ 
+<a class="word dynamictext" href="/dictionary/denounce">denounce</a>	
+<div class="definition">speak out against</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry107"
+ lang="en" word="dense" freq="256" >
+ 
+<a class="word dynamictext" href="/dictionary/dense">dense</a>	
+<div class="definition">having high compaction or concentration</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry108"
+ lang="en" word="depart" freq="64.11" >
+ 
+<a class="word dynamictext" href="/dictionary/depart">depart</a>	
+<div class="definition">go away or leave</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry109"
+ lang="en" word="depict" freq="574.45" >
+ 
+<a class="word dynamictext" href="/dictionary/depict">depict</a>	
+<div class="definition">give a description of</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry110"
+ lang="en" word="deprive" freq="212.91" >
+ 
+<a class="word dynamictext" href="/dictionary/deprive">deprive</a>	
+<div class="definition">take away</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry111"
+ lang="en" word="descend" freq="82.39" >
+ 
+<a class="word dynamictext" href="/dictionary/descend">descend</a>	
+<div class="definition">move downward and lower, but not necessarily all the way</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry" id="entry112"
+ lang="en" word="despite" freq="115.03" >
+ 
+<a class="word dynamictext" href="/dictionary/despite">despite</a>	
+<div class="definition">contemptuous disregard</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry113"
+ lang="en" word="detect" freq="123.08" >
+ 
+<a class="word dynamictext" href="/dictionary/detect">detect</a>	
+<div class="definition">discover or determine the existence, presence, or fact of</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry114"
+ lang="en" word="detest" freq="492.24" >
+ 
+<a class="word dynamictext" href="/dictionary/detest">detest</a>	
+<div class="definition">dislike intensely</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry115"
+ lang="en" word="detour" freq="3146.94" >
+ 
+<a class="word dynamictext" href="/dictionary/detour">detour</a>	
+<div class="definition">a roundabout road or route</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry116"
+ lang="en" word="devise" freq="359.7" >
+ 
+<a class="word dynamictext" href="/dictionary/devise">devise</a>	
+<div class="definition">arrange by systematic planning and united effort</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry117"
+ lang="en" word="devour" freq="370.89" >
+ 
+<a class="word dynamictext" href="/dictionary/devour">devour</a>	
+<div class="definition">eat immoderately</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry118"
+ lang="en" word="dilemma" freq="1021.49" >
+ 
+<a class="word dynamictext" href="/dictionary/dilemma">dilemma</a>	
+<div class="definition">state of uncertainty in a choice between unfavorable options</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry119"
+ lang="en" word="diminish" freq="256.27" >
+ 
+<a class="word dynamictext" href="/dictionary/diminish">diminish</a>	
+<div class="definition">decrease in size, extent, or range</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry120"
+ lang="en" word="disaster" freq="159.81" >
+ 
+<a class="word dynamictext" href="/dictionary/disaster">disaster</a>	
+<div class="definition">an event resulting in great loss and misfortune</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry121"
+ lang="en" word="discard" freq="714.64" >
+ 
+<a class="word dynamictext" href="/dictionary/discard">discard</a>	
+<div class="definition">anything that is cast aside</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry122"
+ lang="en" word="disclose" freq="199.42" >
+ 
+<a class="word dynamictext" href="/dictionary/disclose">disclose</a>	
+<div class="definition">expose to view as by removing a cover</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry123"
+ lang="en" word="dismal" freq="472.1" >
+ 
+<a class="word dynamictext" href="/dictionary/dismal">dismal</a>	
+<div class="definition">causing dejection</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry124"
+ lang="en" word="dispute" freq="113.53" >
+ 
+<a class="word dynamictext" href="/dictionary/dispute">dispute</a>	
+<div class="definition">the act of coming into conflict</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry125"
+ lang="en" word="disrupt" freq="839.55" >
+ 
+<a class="word dynamictext" href="/dictionary/disrupt">disrupt</a>	
+<div class="definition">make a break in</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry126"
+ lang="en" word="distress" freq="132.81" >
+ 
+<a class="word dynamictext" href="/dictionary/distress">distress</a>	
+<div class="definition">a state of adversity</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry127"
+ lang="en" word="document" freq="125.93" >
+ 
+<a class="word dynamictext" href="/dictionary/document">document</a>	
+<div class="definition">a representation of a person's thinking with symbolic marks</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry128"
+ lang="en" word="doubt" freq="20" >
+ 
+<a class="word dynamictext" href="/dictionary/doubt">doubt</a>	
+<div class="definition">the state of being unsure of something</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry129"
+ lang="en" word="dread" freq="68.06" >
+ 
+<a class="word dynamictext" href="/dictionary/dread">dread</a>	
+<div class="definition">fearful expectation or anticipation</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry130"
+ lang="en" word="drench" freq="1118.98" >
+ 
+<a class="word dynamictext" href="/dictionary/drench">drench</a>	
+<div class="definition">cover with liquid; pour liquid onto</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry131"
+ lang="en" word="drought" freq="879.04" >
+ 
+<a class="word dynamictext" href="/dictionary/drought">drought</a>	
+<div class="definition">a shortage of rainfall</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry132"
+ lang="en" word="duplicate" freq="1079.21" >
+ 
+<a class="word dynamictext" href="/dictionary/duplicate">duplicate</a>	
+<div class="definition">a copy that corresponds to an original exactly</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry133"
+ lang="en" word="dwindle" freq="1038.69" >
+ 
+<a class="word dynamictext" href="/dictionary/dwindle">dwindle</a>	
+<div class="definition">become smaller or lose substance</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry134"
+ lang="en" word="economical" freq="1207.3" >
+ 
+<a class="word dynamictext" href="/dictionary/economical">economical</a>	
+<div class="definition">using the minimum of time or resources for effectiveness</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry135"
+ lang="en" word="editor" freq="78.14" >
+ 
+<a class="word dynamictext" href="/dictionary/editor">editor</a>	
+<div class="definition">the person who determines the final content of a text </div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry136"
+ lang="en" word="elevate" freq="144.99" >
+ 
+<a class="word dynamictext" href="/dictionary/elevate">elevate</a>	
+<div class="definition">raise from a lower to a higher position</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry137"
+ lang="en" word="eliminate" freq="386.09" >
+ 
+<a class="word dynamictext" href="/dictionary/eliminate">eliminate</a>	
+<div class="definition">end, take out, or do away with</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry138"
+ lang="en" word="embrace" freq="142.01" >
+ 
+<a class="word dynamictext" href="/dictionary/embrace">embrace</a>	
+<div class="definition">squeeze tightly in your arms, usually with fondness</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry139"
+ lang="en" word="emerge" freq="98.72" >
+ 
+<a class="word dynamictext" href="/dictionary/emerge">emerge</a>	
+<div class="definition">come out into view, as from concealment</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry140"
+ lang="en" word="encourage" freq="88.04" >
+ 
+<a class="word dynamictext" href="/dictionary/encourage">encourage</a>	
+<div class="definition">inspire with confidence</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry141"
+ lang="en" word="endure" freq="102.65" >
+ 
+<a class="word dynamictext" href="/dictionary/endure">endure</a>	
+<div class="definition">undergo or be subjected to</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry142"
+ lang="en" word="enormous" freq="145.52" >
+ 
+<a class="word dynamictext" href="/dictionary/enormous">enormous</a>	
+<div class="definition">extraordinarily large in size or extent or degree</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry143"
+ lang="en" word="envy" freq="193.1" >
+ 
+<a class="word dynamictext" href="/dictionary/envy">envy</a>	
+<div class="definition">a desire to have something that is possessed by another</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry144"
+ lang="en" word="epidemic" freq="1092.15" >
+ 
+<a class="word dynamictext" href="/dictionary/epidemic">epidemic</a>	
+<div class="definition">a widespread outbreak of an infectious disease</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry145"
+ lang="en" word="essential" freq="107.24" >
+ 
+<a class="word dynamictext" href="/dictionary/essential">essential</a>	
+<div class="definition">basic and fundamental</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry146"
+ lang="en" word="estimate" freq="81.96" >
+ 
+<a class="word dynamictext" href="/dictionary/estimate">estimate</a>	
+<div class="definition">judge tentatively</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry147"
+ lang="en" word="evade" freq="443.12" >
+ 
+<a class="word dynamictext" href="/dictionary/evade">evade</a>	
+<div class="definition">avoid or try to avoid fulfilling, answering, or performing</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry148"
+ lang="en" word="event" freq="42.95" >
+ 
+<a class="word dynamictext" href="/dictionary/event">event</a>	
+<div class="definition">something that happens at a given place and time</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry149"
+ lang="en" word="evidence" freq="62.41" >
+ 
+<a class="word dynamictext" href="/dictionary/evidence">evidence</a>	
+<div class="definition">knowledge on which to base belief</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry150"
+ lang="en" word="exaggerate" freq="287.34" >
+ 
+<a class="word dynamictext" href="/dictionary/exaggerate">exaggerate</a>	
+<div class="definition">enlarge beyond bounds or the truth</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry151"
+ lang="en" word="excel" freq="63.08" >
+ 
+<a class="word dynamictext" href="/dictionary/excel">excel</a>	
+<div class="definition">distinguish oneself</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry152"
+ lang="en" word="excessive" freq="327.89" >
+ 
+<a class="word dynamictext" href="/dictionary/excessive">excessive</a>	
+<div class="definition">beyond normal limits</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry153"
+ lang="en" word="exempt" freq="556.84" >
+ 
+<a class="word dynamictext" href="/dictionary/exempt">exempt</a>	
+<div class="definition"> freed from or not subject to an obligation or liability</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry154"
+ lang="en" word="exhaust" freq="132.95" >
+ 
+<a class="word dynamictext" href="/dictionary/exhaust">exhaust</a>	
+<div class="definition">wear out completely</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry155"
+ lang="en" word="exhibit" freq="95.4" >
+ 
+<a class="word dynamictext" href="/dictionary/exhibit">exhibit</a>	
+<div class="definition">show; make visible or apparent</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry156"
+ lang="en" word="expand" freq="134.41" >
+ 
+<a class="word dynamictext" href="/dictionary/expand">expand</a>	
+<div class="definition">extend in one or more directions</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry157"
+ lang="en" word="expensive" freq="267.78" >
+ 
+<a class="word dynamictext" href="/dictionary/expensive">expensive</a>	
+<div class="definition">high in price or charging high prices</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry158"
+ lang="en" word="explore" freq="173.64" >
+ 
+<a class="word dynamictext" href="/dictionary/explore">explore</a>	
+<div class="definition">travel to or penetrate into</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry159"
+ lang="en" word="expose" freq="98.81" >
+ 
+<a class="word dynamictext" href="/dictionary/expose">expose</a>	
+<div class="definition">show; make visible or apparent</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry160"
+ lang="en" word="extract" freq="178.7" >
+ 
+<a class="word dynamictext" href="/dictionary/extract">extract</a>	
+<div class="definition">remove, usually with some force or effort</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry161"
+ lang="en" word="famine" freq="589.14" >
+ 
+<a class="word dynamictext" href="/dictionary/famine">famine</a>	
+<div class="definition">a severe shortage of food resulting in starvation and death</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry162"
+ lang="en" word="feeble" freq="187.33" >
+ 
+<a class="word dynamictext" href="/dictionary/feeble">feeble</a>	
+<div class="definition">pathetically lacking in force or effectiveness</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry163"
+ lang="en" word="feminine" freq="422.58" >
+ 
+<a class="word dynamictext" href="/dictionary/feminine">feminine</a>	
+<div class="definition">associated with women and not with men</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry164"
+ lang="en" word="fertile" freq="189.41" >
+ 
+<a class="word dynamictext" href="/dictionary/fertile">fertile</a>	
+<div class="definition">capable of reproducing</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry165"
+ lang="en" word="fiction" freq="227.84" >
+ 
+<a class="word dynamictext" href="/dictionary/fiction">fiction</a>	
+<div class="definition">a literary work based on the imagination</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry166"
+ lang="en" word="fierce" freq="101.49" >
+ 
+<a class="word dynamictext" href="/dictionary/fierce">fierce</a>	
+<div class="definition">marked by extreme and violent energy</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry167"
+ lang="en" word="final" freq="29.64" >
+ 
+<a class="word dynamictext" href="/dictionary/final">final</a>	
+<div class="definition">an examination administered at the end of an academic term</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry168"
+ lang="en" word="finance" freq="56.42" >
+ 
+<a class="word dynamictext" href="/dictionary/finance">finance</a>	
+<div class="definition">the commercial activity of providing funds and capital</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry169"
+ lang="en" word="flee" freq="110.53" >
+ 
+<a class="word dynamictext" href="/dictionary/flee">flee</a>	
+<div class="definition">run away quickly</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry170"
+ lang="en" word="flexible" freq="505.52" >
+ 
+<a class="word dynamictext" href="/dictionary/flexible">flexible</a>	
+<div class="definition">able to bend easily</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry171"
+ lang="en" word="forbid" freq="138.32" >
+ 
+<a class="word dynamictext" href="/dictionary/forbid">forbid</a>	
+<div class="definition">command against</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry172"
+ lang="en" word="fortunate" freq="57.6" >
+ 
+<a class="word dynamictext" href="/dictionary/fortunate">fortunate</a>	
+<div class="definition">having unexpected good luck</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry173"
+ lang="en" word="fragile" freq="899.94" >
+ 
+<a class="word dynamictext" href="/dictionary/fragile">fragile</a>	
+<div class="definition">easily broken or damaged or destroyed</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry174"
+ lang="en" word="frank" freq="183.26" >
+ 
+<a class="word dynamictext" href="/dictionary/frank">frank</a>	
+<div class="definition">characterized by directness in manner or speech</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry175"
+ lang="en" word="frequent" freq="52.97" >
+ 
+<a class="word dynamictext" href="/dictionary/frequent">frequent</a>	
+<div class="definition">coming at short intervals or habitually</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry176"
+ lang="en" word="frigid" freq="2022.09" >
+ 
+<a class="word dynamictext" href="/dictionary/frigid">frigid</a>	
+<div class="definition">extremely cold</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry177"
+ lang="en" word="fugitive" freq="382.83" >
+ 
+<a class="word dynamictext" href="/dictionary/fugitive">fugitive</a>	
+<div class="definition">someone who is sought by law officers</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry178"
+ lang="en" word="gallant" freq="223.82" >
+ 
+<a class="word dynamictext" href="/dictionary/gallant">gallant</a>	
+<div class="definition">having or displaying great dignity or nobility</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry179"
+ lang="en" word="glance" freq="48.05" >
+ 
+<a class="word dynamictext" href="/dictionary/glance">glance</a>	
+<div class="definition">take a brief look at</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry180"
+ lang="en" word="gleam" freq="171.42" >
+ 
+<a class="word dynamictext" href="/dictionary/gleam">gleam</a>	
+<div class="definition">a flash of light</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry181"
+ lang="en" word="glimpse" freq="234.27" >
+ 
+<a class="word dynamictext" href="/dictionary/glimpse">glimpse</a>	
+<div class="definition">a brief or incomplete view</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry182"
+ lang="en" word="gloomy" freq="213.86" >
+ 
+<a class="word dynamictext" href="/dictionary/gloomy">gloomy</a>	
+<div class="definition">depressingly dark</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry183"
+ lang="en" word="grateful" freq="148.9" >
+ 
+<a class="word dynamictext" href="/dictionary/grateful">grateful</a>	
+<div class="definition">feeling or showing thankfulness</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry184"
+ lang="en" word="guide" freq="57.7" >
+ 
+<a class="word dynamictext" href="/dictionary/guide">guide</a>	
+<div class="definition">someone employed to conduct others</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry185"
+ lang="en" word="harmony" freq="155.33" >
+ 
+<a class="word dynamictext" href="/dictionary/harmony">harmony</a>	
+<div class="definition">compatibility in opinion and action</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry186"
+ lang="en" word="harsh" freq="220.01" >
+ 
+<a class="word dynamictext" href="/dictionary/harsh">harsh</a>	
+<div class="definition">disagreeable to the senses</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry187"
+ lang="en" word="harvest" freq="291.82" >
+ 
+<a class="word dynamictext" href="/dictionary/harvest">harvest</a>	
+<div class="definition">the gathering of a ripened crop</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry188"
+ lang="en" word="hasty" freq="129.62" >
+ 
+<a class="word dynamictext" href="/dictionary/hasty">hasty</a>	
+<div class="definition">excessively quick</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry189"
+ lang="en" word="hazy" freq="1566.68" >
+ 
+<a class="word dynamictext" href="/dictionary/hazy">hazy</a>	
+<div class="definition">filled or abounding with fog or mist</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry190"
+ lang="en" word="heed" freq="202.8" >
+ 
+<a class="word dynamictext" href="/dictionary/heed">heed</a>	
+<div class="definition">careful attention</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry191"
+ lang="en" word="heir" freq="242.23" >
+ 
+<a class="word dynamictext" href="/dictionary/heir">heir</a>	
+<div class="definition">a person entitled by law to inherit the estate of another</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry192"
+ lang="en" word="hesitate" freq="89.24" >
+ 
+<a class="word dynamictext" href="/dictionary/hesitate">hesitate</a>	
+<div class="definition">pause or hold back in uncertainty or unwillingness</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry193"
+ lang="en" word="hinder" freq="300.18" >
+ 
+<a class="word dynamictext" href="/dictionary/hinder">hinder</a>	
+<div class="definition">be an obstacle to</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry194"
+ lang="en" word="homicide" freq="2239.08" >
+ 
+<a class="word dynamictext" href="/dictionary/homicide">homicide</a>	
+<div class="definition">the killing of a human being by another human being</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry195"
+ lang="en" word="horrid" freq="419.25" >
+ 
+<a class="word dynamictext" href="/dictionary/horrid">horrid</a>	
+<div class="definition">grossly offensive to decency or morality</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry196"
+ lang="en" word="humid" freq="1567.92" >
+ 
+<a class="word dynamictext" href="/dictionary/humid">humid</a>	
+<div class="definition">containing or characterized by a great deal of water vapor</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry197"
+ lang="en" word="identify" freq="177.39" >
+ 
+<a class="word dynamictext" href="/dictionary/identify">identify</a>	
+<div class="definition">recognize as being</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry198"
+ lang="en" word="idle" freq="134.35" >
+ 
+<a class="word dynamictext" href="/dictionary/idle">idle</a>	
+<div class="definition">not in action or at work</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry199"
+ lang="en" word="idol" freq="350.18" >
+ 
+<a class="word dynamictext" href="/dictionary/idol">idol</a>	
+<div class="definition">a material effigy that is worshipped</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry200"
+ lang="en" word="ignite" freq="1394.95" >
+ 
+<a class="word dynamictext" href="/dictionary/ignite">ignite</a>	
+<div class="definition">cause to start burning</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry201"
+ lang="en" word="ignore" freq="235.6" >
+ 
+<a class="word dynamictext" href="/dictionary/ignore">ignore</a>	
+<div class="definition">refuse to acknowledge</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry202"
+ lang="en" word="illegal" freq="388" >
+ 
+<a class="word dynamictext" href="/dictionary/illegal">illegal</a>	
+<div class="definition">prohibited by law or by official or accepted rules</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry203"
+ lang="en" word="illustrate" freq="72.92" >
+ 
+<a class="word dynamictext" href="/dictionary/illustrate">illustrate</a>	
+<div class="definition">depict with a visual representation</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry204"
+ lang="en" word="indifference" freq="301.45" >
+ 
+<a class="word dynamictext" href="/dictionary/indifference">indifference</a>	
+<div class="definition">the trait of remaining calm and seeming not to care</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry205"
+ lang="en" word="ingenious" freq="265.98" >
+ 
+<a class="word dynamictext" href="/dictionary/ingenious">ingenious</a>	
+<div class="definition">showing inventiveness and skill</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry206"
+ lang="en" word="inhabit" freq="82.58" >
+ 
+<a class="word dynamictext" href="/dictionary/inhabit">inhabit</a>	
+<div class="definition">live in; be a resident of</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry207"
+ lang="en" word="innovative" freq="2262.64" >
+ 
+<a class="word dynamictext" href="/dictionary/innovative">innovative</a>	
+<div class="definition">being like nothing done or experienced or created before</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry208"
+ lang="en" word="insist" freq="78.94" >
+ 
+<a class="word dynamictext" href="/dictionary/insist">insist</a>	
+<div class="definition">be emphatic or resolute and refuse to budge</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry209"
+ lang="en" word="jagged" freq="1698.93" >
+ 
+<a class="word dynamictext" href="/dictionary/jagged">jagged</a>	
+<div class="definition">having a sharply uneven surface or outline</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry210"
+ lang="en" word="jealous" freq="137.52" >
+ 
+<a class="word dynamictext" href="/dictionary/jealous">jealous</a>	
+<div class="definition">suspicious or fearful of being displaced by a rival</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry211"
+ lang="en" word="jeopardize" freq="3496.8" >
+ 
+<a class="word dynamictext" href="/dictionary/jeopardize">jeopardize</a>	
+<div class="definition">pose a threat to; present a danger to</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry212"
+ lang="en" word="jest" freq="200.26" >
+ 
+<a class="word dynamictext" href="/dictionary/jest">jest</a>	
+<div class="definition">activity characterized by good humor</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry" id="entry213"
+ lang="en" word="jolly" freq="313.09" >
+ 
+<a class="word dynamictext" href="/dictionary/jolly">jolly</a>	
+<div class="definition">full of or showing high-spirited merriment</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry214"
+ lang="en" word="journalist" freq="281.9" >
+ 
+<a class="word dynamictext" href="/dictionary/journalist">journalist</a>	
+<div class="definition">a person who writes or broadcasts news stories</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry215"
+ lang="en" word="justice" freq="99.16" >
+ 
+<a class="word dynamictext" href="/dictionary/justice">justice</a>	
+<div class="definition">the quality of being fair, reasonable, or impartial</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry216"
+ lang="en" word="juvenile" freq="1189.11" >
+ 
+<a class="word dynamictext" href="/dictionary/juvenile">juvenile</a>	
+<div class="definition">of or relating to children or young people</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry217"
+ lang="en" word="keen" freq="114.85" >
+ 
+<a class="word dynamictext" href="/dictionary/keen">keen</a>	
+<div class="definition">intense or sharp</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry" id="entry218"
+ lang="en" word="keg" freq="2224.76" >
+ 
+<a class="word dynamictext" href="/dictionary/keg">keg</a>	
+<div class="definition">small cask or barrel</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry219"
+ lang="en" word="kneel" freq="193.21" >
+ 
+<a class="word dynamictext" href="/dictionary/kneel">kneel</a>	
+<div class="definition">rest one's weight on one's knees</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry220"
+ lang="en" word="lack" freq="81.73" >
+ 
+<a class="word dynamictext" href="/dictionary/lack">lack</a>	
+<div class="definition">the state of needing something that is absent or unavailable</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry221"
+ lang="en" word="lecture" freq="167.47" >
+ 
+<a class="word dynamictext" href="/dictionary/lecture">lecture</a>	
+<div class="definition">a speech that is open to the public</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry222"
+ lang="en" word="legend" freq="194.06" >
+ 
+<a class="word dynamictext" href="/dictionary/legend">legend</a>	
+<div class="definition">a story about mythical or supernatural beings or events</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry223"
+ lang="en" word="legible" freq="2096.62" >
+ 
+<a class="word dynamictext" href="/dictionary/legible">legible</a>	
+<div class="definition">capable of being read or deciphered</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry224"
+ lang="en" word="linger" freq="206.25" >
+ 
+<a class="word dynamictext" href="/dictionary/linger">linger</a>	
+<div class="definition">remain present although waning or gradually dying</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry225"
+ lang="en" word="logical" freq="381.72" >
+ 
+<a class="word dynamictext" href="/dictionary/logical">logical</a>	
+<div class="definition">based on known statements or events or conditions</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry226"
+ lang="en" word="lottery" freq="1537.17" >
+ 
+<a class="word dynamictext" href="/dictionary/lottery">lottery</a>	
+<div class="definition">a game in which players buy chances to win</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry227"
+ lang="en" word="loyalty" freq="318.21" >
+ 
+<a class="word dynamictext" href="/dictionary/loyalty">loyalty</a>	
+<div class="definition">the quality of being steadfast in allegiance or duty</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry228"
+ lang="en" word="lubricate" freq="5910.66" >
+ 
+<a class="word dynamictext" href="/dictionary/lubricate">lubricate</a>	
+<div class="definition">make slippery or smooth</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry229"
+ lang="en" word="lunatic" freq="1135.84" >
+ 
+<a class="word dynamictext" href="/dictionary/lunatic">lunatic</a>	
+<div class="definition">an insane person</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry230"
+ lang="en" word="magnify" freq="834.17" >
+ 
+<a class="word dynamictext" href="/dictionary/magnify">magnify</a>	
+<div class="definition">increase in size, volume or significance</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry231"
+ lang="en" word="maim" freq="1786.39" >
+ 
+<a class="word dynamictext" href="/dictionary/maim">maim</a>	
+<div class="definition">injure or wound seriously and leave permanent disfiguration</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry232"
+ lang="en" word="maintain" freq="67.26" >
+ 
+<a class="word dynamictext" href="/dictionary/maintain">maintain</a>	
+<div class="definition">keep in a certain state, position, or activity</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry233"
+ lang="en" word="majestic" freq="564.28" >
+ 
+<a class="word dynamictext" href="/dictionary/majestic">majestic</a>	
+<div class="definition">having or displaying great dignity or nobility</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry234"
+ lang="en" word="majority" freq="108.69" >
+ 
+<a class="word dynamictext" href="/dictionary/majority">majority</a>	
+<div class="definition">the main part</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry235"
+ lang="en" word="manipulate" freq="799.12" >
+ 
+<a class="word dynamictext" href="/dictionary/manipulate">manipulate</a>	
+<div class="definition">influence or control shrewdly or deviously</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry236"
+ lang="en" word="masculine" freq="797.83" >
+ 
+<a class="word dynamictext" href="/dictionary/masculine">masculine</a>	
+<div class="definition">associated with men and not with women</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry237"
+ lang="en" word="matrimony" freq="902.76" >
+ 
+<a class="word dynamictext" href="/dictionary/matrimony">matrimony</a>	
+<div class="definition">state of being a married couple voluntarily joined for life</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry238"
+ lang="en" word="mature" freq="254.58" >
+ 
+<a class="word dynamictext" href="/dictionary/mature">mature</a>	
+<div class="definition">having reached full natural growth or development</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry239"
+ lang="en" word="maximum" freq="505.19" >
+ 
+<a class="word dynamictext" href="/dictionary/maximum">maximum</a>	
+<div class="definition">the greatest or most complete or best possible</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry240"
+ lang="en" word="mediocre" freq="1424.33" >
+ 
+<a class="word dynamictext" href="/dictionary/mediocre">mediocre</a>	
+<div class="definition">moderate to inferior in quality</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry241"
+ lang="en" word="menace" freq="345.18" >
+ 
+<a class="word dynamictext" href="/dictionary/menace">menace</a>	
+<div class="definition">something that is a source of danger</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry242"
+ lang="en" word="merit" freq="123.51" >
+ 
+<a class="word dynamictext" href="/dictionary/merit">merit</a>	
+<div class="definition">the quality of being deserving</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry243"
+ lang="en" word="microscope" freq="1490.89" >
+ 
+<a class="word dynamictext" href="/dictionary/microscope">microscope</a>	
+<div class="definition">magnifier of the image of small objects</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry244"
+ lang="en" word="migrate" freq="448.16" >
+ 
+<a class="word dynamictext" href="/dictionary/migrate">migrate</a>	
+<div class="definition">move from one country or region to another and settle there</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry245"
+ lang="en" word="miniature" freq="685.34" >
+ 
+<a class="word dynamictext" href="/dictionary/miniature">miniature</a>	
+<div class="definition">being on a very small scale</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry246"
+ lang="en" word="minimum" freq="429.1" >
+ 
+<a class="word dynamictext" href="/dictionary/minimum">minimum</a>	
+<div class="definition">the smallest possible quantity</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry247"
+ lang="en" word="minority" freq="383.22" >
+ 
+<a class="word dynamictext" href="/dictionary/minority">minority</a>	
+<div class="definition">being or relating to the smaller in number of two parts</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry248"
+ lang="en" word="miserly" freq="6202.11" >
+ 
+<a class="word dynamictext" href="/dictionary/miserly">miserly</a>	
+<div class="definition">characterized by or indicative of lack of generosity</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry249"
+ lang="en" word="misfortune" freq="202.02" >
+ 
+<a class="word dynamictext" href="/dictionary/misfortune">misfortune</a>	
+<div class="definition">a state resulting from unfavorable outcomes</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry" id="entry250"
+ lang="en" word="molest" freq="757.82" >
+ 
+<a class="word dynamictext" href="/dictionary/molest">molest</a>	
+<div class="definition">harass or assault sexually; make indecent advances to</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry251"
+ lang="en" word="monarch" freq="150.36" >
+ 
+<a class="word dynamictext" href="/dictionary/monarch">monarch</a>	
+<div class="definition">a nation's ruler usually by hereditary right</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry252"
+ lang="en" word="morality" freq="341.09" >
+ 
+<a class="word dynamictext" href="/dictionary/morality">morality</a>	
+<div class="definition">the quality of being in accord with right or good conduct</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry253"
+ lang="en" word="morgue" freq="5557.8" >
+ 
+<a class="word dynamictext" href="/dictionary/morgue">morgue</a>	
+<div class="definition">a building or room where dead bodies are kept before burial</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry254"
+ lang="en" word="morsel" freq="1115.19" >
+ 
+<a class="word dynamictext" href="/dictionary/morsel">morsel</a>	
+<div class="definition">a small amount of solid food; a mouthful</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry255"
+ lang="en" word="mortal" freq="82.2" >
+ 
+<a class="word dynamictext" href="/dictionary/mortal">mortal</a>	
+<div class="definition">subject to death</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry256"
+ lang="en" word="mount" freq="61.9" >
+ 
+<a class="word dynamictext" href="/dictionary/mount">mount</a>	
+<div class="definition">go up, advance, or increase</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry257"
+ lang="en" word="mourn" freq="146.41" >
+ 
+<a class="word dynamictext" href="/dictionary/mourn">mourn</a>	
+<div class="definition">feel sadness</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry258"
+ lang="en" word="multitude" freq="196.75" >
+ 
+<a class="word dynamictext" href="/dictionary/multitude">multitude</a>	
+<div class="definition">a large indefinite number</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry259"
+ lang="en" word="mumble" freq="1192.46" >
+ 
+<a class="word dynamictext" href="/dictionary/mumble">mumble</a>	
+<div class="definition">talk indistinctly; usually in a low voice</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry260"
+ lang="en" word="municipal" freq="429.11" >
+ 
+<a class="word dynamictext" href="/dictionary/municipal">municipal</a>	
+<div class="definition">relating to a self-governing district </div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry261"
+ lang="en" word="mute" freq="396.73" >
+ 
+<a class="word dynamictext" href="/dictionary/mute">mute</a>	
+<div class="definition">expressed without speech</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry262"
+ lang="en" word="mythology" freq="735.99" >
+ 
+<a class="word dynamictext" href="/dictionary/mythology">mythology</a>	
+<div class="definition">the body of stories associated with a culture or institution</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry263"
+ lang="en" word="narcotic" freq="2114.23" >
+ 
+<a class="word dynamictext" href="/dictionary/narcotic">narcotic</a>	
+<div class="definition">a drug that produces numbness or stupor</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry264"
+ lang="en" word="negative" freq="299.66" >
+ 
+<a class="word dynamictext" href="/dictionary/negative">negative</a>	
+<div class="definition">characterized by denial or opposition or resistance</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry265"
+ lang="en" word="neglect" freq="133.75" >
+ 
+<a class="word dynamictext" href="/dictionary/neglect">neglect</a>	
+<div class="definition">leave undone or leave out</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry266"
+ lang="en" word="neutral" freq="285.75" >
+ 
+<a class="word dynamictext" href="/dictionary/neutral">neutral</a>	
+<div class="definition">having no personal preference</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry267"
+ lang="en" word="nimble" freq="956.95" >
+ 
+<a class="word dynamictext" href="/dictionary/nimble">nimble</a>	
+<div class="definition">moving quickly and lightly</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry268"
+ lang="en" word="nominate" freq="186.15" >
+ 
+<a class="word dynamictext" href="/dictionary/nominate">nominate</a>	
+<div class="definition">propose as a candidate for some honor</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry269"
+ lang="en" word="nourish" freq="452.1" >
+ 
+<a class="word dynamictext" href="/dictionary/nourish">nourish</a>	
+<div class="definition">provide with sustenance</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry270"
+ lang="en" word="novel" freq="96.86" >
+ 
+<a class="word dynamictext" href="/dictionary/novel">novel</a>	
+<div class="definition">an extended fictional work in prose</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry271"
+ lang="en" word="numb" freq="1121.85" >
+ 
+<a class="word dynamictext" href="/dictionary/numb">numb</a>	
+<div class="definition">lacking sensation</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry272"
+ lang="en" word="numerous" freq="107.93" >
+ 
+<a class="word dynamictext" href="/dictionary/numerous">numerous</a>	
+<div class="definition">amounting to a large indefinite number</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry273"
+ lang="en" word="oath" freq="185.05" >
+ 
+<a class="word dynamictext" href="/dictionary/oath">oath</a>	
+<div class="definition">a solemn promise regarding your future acts or behavior</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry274"
+ lang="en" word="obedient" freq="152.23" >
+ 
+<a class="word dynamictext" href="/dictionary/obedient">obedient</a>	
+<div class="definition">dutifully complying with the commands of those in authority</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry275"
+ lang="en" word="obesity" freq="2437.97" >
+ 
+<a class="word dynamictext" href="/dictionary/obesity">obesity</a>	
+<div class="definition">the condition of being excessively overweight</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry276"
+ lang="en" word="observant" freq="1607.32" >
+ 
+<a class="word dynamictext" href="/dictionary/observant">observant</a>	
+<div class="definition">quick to notice; showing quick and keen perception</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry277"
+ lang="en" word="obstacle" freq="302.05" >
+ 
+<a class="word dynamictext" href="/dictionary/obstacle">obstacle</a>	
+<div class="definition">something that stands in the way and must be surmounted</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry278"
+ lang="en" word="obtain" freq="48.23" >
+ 
+<a class="word dynamictext" href="/dictionary/obtain">obtain</a>	
+<div class="definition">come into possession of</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry279"
+ lang="en" word="obvious" freq="107.14" >
+ 
+<a class="word dynamictext" href="/dictionary/obvious">obvious</a>	
+<div class="definition">easily perceived by the senses or grasped by the mind</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry280"
+ lang="en" word="occupant" freq="623.95" >
+ 
+<a class="word dynamictext" href="/dictionary/occupant">occupant</a>	
+<div class="definition">someone who lives at a particular place for a long period</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry281"
+ lang="en" word="opt" freq="233.08" >
+ 
+<a class="word dynamictext" href="/dictionary/opt">opt</a>	
+<div class="definition">select as an alternative over another</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry282"
+ lang="en" word="oral" freq="1450.87" >
+ 
+<a class="word dynamictext" href="/dictionary/oral">oral</a>	
+<div class="definition">using speech rather than writing</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry283"
+ lang="en" word="outlaw" freq="585.48" >
+ 
+<a class="word dynamictext" href="/dictionary/outlaw">outlaw</a>	
+<div class="definition">a criminal, especially one on the run from police</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry284"
+ lang="en" word="pacify" freq="826.26" >
+ 
+<a class="word dynamictext" href="/dictionary/pacify">pacify</a>	
+<div class="definition">ease the anger, agitation, or strong emotion of</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry285"
+ lang="en" word="panic" freq="413.17" >
+ 
+<a class="word dynamictext" href="/dictionary/panic">panic</a>	
+<div class="definition">an overwhelming feeling of fear and anxiety</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry286"
+ lang="en" word="parole" freq="1524.5" >
+ 
+<a class="word dynamictext" href="/dictionary/parole">parole</a>	
+<div class="definition">a conditional release from imprisonment</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry287"
+ lang="en" word="partial" freq="213.59" >
+ 
+<a class="word dynamictext" href="/dictionary/partial">partial</a>	
+<div class="definition">being or affecting only a segment</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry288"
+ lang="en" word="patriotic" freq="256.6" >
+ 
+<a class="word dynamictext" href="/dictionary/patriotic">patriotic</a>	
+<div class="definition">inspired by love for your country</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry289"
+ lang="en" word="pauper" freq="1179.04" >
+ 
+<a class="word dynamictext" href="/dictionary/pauper">pauper</a>	
+<div class="definition">a person who is very poor</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry290"
+ lang="en" word="pedestrian" freq="1502.06" >
+ 
+<a class="word dynamictext" href="/dictionary/pedestrian">pedestrian</a>	
+<div class="definition">a person who travels by foot</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry291"
+ lang="en" word="penalize" freq="5719.1" >
+ 
+<a class="word dynamictext" href="/dictionary/penalize">penalize</a>	
+<div class="definition">inflict punishment on</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry292"
+ lang="en" word="penetrate" freq="167.06" >
+ 
+<a class="word dynamictext" href="/dictionary/penetrate">penetrate</a>	
+<div class="definition">pass into or through, often by overcoming resistance</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry293"
+ lang="en" word="pension" freq="308.53" >
+ 
+<a class="word dynamictext" href="/dictionary/pension">pension</a>	
+<div class="definition">regular payment to allow a person to subsist without working</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry294"
+ lang="en" word="peril" freq="169.51" >
+ 
+<a class="word dynamictext" href="/dictionary/peril">peril</a>	
+<div class="definition">a state of danger involving risk</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry295"
+ lang="en" word="perish" freq="180.44" >
+ 
+<a class="word dynamictext" href="/dictionary/perish">perish</a>	
+<div class="definition">pass from physical life</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry296"
+ lang="en" word="persist" freq="154.09" >
+ 
+<a class="word dynamictext" href="/dictionary/persist">persist</a>	
+<div class="definition">refuse to stop</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry297"
+ lang="en" word="persuade" freq="100.65" >
+ 
+<a class="word dynamictext" href="/dictionary/persuade">persuade</a>	
+<div class="definition">cause somebody to adopt a certain position or belief</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry298"
+ lang="en" word="pierce" freq="246.72" >
+ 
+<a class="word dynamictext" href="/dictionary/pierce">pierce</a>	
+<div class="definition">penetrate or cut through with a sharp instrument</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry299"
+ lang="en" word="pioneer" freq="371.65" >
+ 
+<a class="word dynamictext" href="/dictionary/pioneer">pioneer</a>	
+<div class="definition">one the first colonists or settlers in a new territory</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry300"
+ lang="en" word="placard" freq="2056.89" >
+ 
+<a class="word dynamictext" href="/dictionary/placard">placard</a>	
+<div class="definition">a sign posted in a public place</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry301"
+ lang="en" word="plea" freq="441.89" >
+ 
+<a class="word dynamictext" href="/dictionary/plea">plea</a>	
+<div class="definition">a humble request for help from someone in authority</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry302"
+ lang="en" word="pledge" freq="197.84" >
+ 
+<a class="word dynamictext" href="/dictionary/pledge">pledge</a>	
+<div class="definition">a binding commitment to do or give or refrain from something</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry303"
+ lang="en" word="pollute" freq="484.7" >
+ 
+<a class="word dynamictext" href="/dictionary/pollute">pollute</a>	
+<div class="definition">make impure</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry304"
+ lang="en" word="ponder" freq="450.13" >
+ 
+<a class="word dynamictext" href="/dictionary/ponder">ponder</a>	
+<div class="definition">reflect deeply on a subject</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry305"
+ lang="en" word="popular" freq="58.1" >
+ 
+<a class="word dynamictext" href="/dictionary/popular">popular</a>	
+<div class="definition">regarded with great favor or approval by the general public</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry306"
+ lang="en" word="population" freq="71.64" >
+ 
+<a class="word dynamictext" href="/dictionary/population">population</a>	
+<div class="definition">the people who inhabit a territory or state</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry307"
+ lang="en" word="possible" freq="14.18" >
+ 
+<a class="word dynamictext" href="/dictionary/possible">possible</a>	
+<div class="definition">capable of happening or existing</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry308"
+ lang="en" word="postpone" freq="481.69" >
+ 
+<a class="word dynamictext" href="/dictionary/postpone">postpone</a>	
+<div class="definition">hold back to a later time</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry309"
+ lang="en" word="potential" freq="190.01" >
+ 
+<a class="word dynamictext" href="/dictionary/potential">potential</a>	
+<div class="definition">existing in possibility</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry310"
+ lang="en" word="precaution" freq="360.04" >
+ 
+<a class="word dynamictext" href="/dictionary/precaution">precaution</a>	
+<div class="definition">a measure taken in advance to ward off impending danger</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry311"
+ lang="en" word="precede" freq="116.28" >
+ 
+<a class="word dynamictext" href="/dictionary/precede">precede</a>	
+<div class="definition">be earlier in time</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry312"
+ lang="en" word="predict" freq="183.7" >
+ 
+<a class="word dynamictext" href="/dictionary/predict">predict</a>	
+<div class="definition">tell in advance</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry313"
+ lang="en" word="prejudice" freq="187.52" >
+ 
+<a class="word dynamictext" href="/dictionary/prejudice">prejudice</a>	
+<div class="definition">a partiality preventing objective consideration of an issue</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry314"
+ lang="en" word="preoccupied" freq="1552.7" >
+ 
+<a class="word dynamictext" href="/dictionary/preoccupied">preoccupied</a>	
+<div class="definition">having excessive or compulsive concern with something</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry315"
+ lang="en" word="preserve" freq="72.74" >
+ 
+<a class="word dynamictext" href="/dictionary/preserve">preserve</a>	
+<div class="definition">keep in safety and protect from harm, loss, or destruction</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry316"
+ lang="en" word="prior" freq="192.5" >
+ 
+<a class="word dynamictext" href="/dictionary/prior">prior</a>	
+<div class="definition">earlier in time</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry317"
+ lang="en" word="probe" freq="758.02" >
+ 
+<a class="word dynamictext" href="/dictionary/probe">probe</a>	
+<div class="definition">an exploratory action or expedition</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry318"
+ lang="en" word="proceed" freq="34.15" >
+ 
+<a class="word dynamictext" href="/dictionary/proceed">proceed</a>	
+<div class="definition">move ahead; travel onward in time or space</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry319"
+ lang="en" word="prohibit" freq="208.17" >
+ 
+<a class="word dynamictext" href="/dictionary/prohibit">prohibit</a>	
+<div class="definition">command against</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry320"
+ lang="en" word="prominent" freq="191.5" >
+ 
+<a class="word dynamictext" href="/dictionary/prominent">prominent</a>	
+<div class="definition">conspicuous in position or importance</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry321"
+ lang="en" word="promote" freq="126.25" >
+ 
+<a class="word dynamictext" href="/dictionary/promote">promote</a>	
+<div class="definition">assign to a higher position</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry322"
+ lang="en" word="prompt" freq="107.19" >
+ 
+<a class="word dynamictext" href="/dictionary/prompt">prompt</a>	
+<div class="definition">according to schedule or without delay</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry323"
+ lang="en" word="prosecute" freq="184.4" >
+ 
+<a class="word dynamictext" href="/dictionary/prosecute">prosecute</a>	
+<div class="definition">conduct legal proceedings against a defendant </div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry324"
+ lang="en" word="prosper" freq="609.99" >
+ 
+<a class="word dynamictext" href="/dictionary/prosper">prosper</a>	
+<div class="definition">make steady progress</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry325"
+ lang="en" word="provide" freq="29.08" >
+ 
+<a class="word dynamictext" href="/dictionary/provide">provide</a>	
+<div class="definition">give something useful or necessary to</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry326"
+ lang="en" word="pursue" freq="56.62" >
+ 
+<a class="word dynamictext" href="/dictionary/pursue">pursue</a>	
+<div class="definition">follow in an effort to capture</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry327"
+ lang="en" word="qualify" freq="169.23" >
+ 
+<a class="word dynamictext" href="/dictionary/qualify">qualify</a>	
+<div class="definition">prove capable or fit; meet requirements</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry328"
+ lang="en" word="quantity" freq="114.18" >
+ 
+<a class="word dynamictext" href="/dictionary/quantity">quantity</a>	
+<div class="definition">how much there is or how many there are of something</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry329"
+ lang="en" word="quarter" freq="49.03" >
+ 
+<a class="word dynamictext" href="/dictionary/quarter">quarter</a>	
+<div class="definition">one of four equal parts</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry330"
+ lang="en" word="quench" freq="805.69" >
+ 
+<a class="word dynamictext" href="/dictionary/quench">quench</a>	
+<div class="definition">satisfy, as thirst</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry331"
+ lang="en" word="quota" freq="1392.82" >
+ 
+<a class="word dynamictext" href="/dictionary/quota">quota</a>	
+<div class="definition">a prescribed number</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry332"
+ lang="en" word="quote" freq="106.49" >
+ 
+<a class="word dynamictext" href="/dictionary/quote">quote</a>	
+<div class="definition">repeat a passage from</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry333"
+ lang="en" word="radical" freq="275.14" >
+ 
+<a class="word dynamictext" href="/dictionary/radical">radical</a>	
+<div class="definition">far beyond the norm</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry334"
+ lang="en" word="rage" freq="102.99" >
+ 
+<a class="word dynamictext" href="/dictionary/rage">rage</a>	
+<div class="definition">a feeling of intense anger</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry335"
+ lang="en" word="rapid" freq="54.57" >
+ 
+<a class="word dynamictext" href="/dictionary/rapid">rapid</a>	
+<div class="definition">characterized by speed</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry336"
+ lang="en" word="rash" freq="435.74" >
+ 
+<a class="word dynamictext" href="/dictionary/rash">rash</a>	
+<div class="definition">imprudently incurring risk</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry337"
+ lang="en" word="rave" freq="777.31" >
+ 
+<a class="word dynamictext" href="/dictionary/rave">rave</a>	
+<div class="definition">talk in a noisy, excited, or declamatory manner</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry338"
+ lang="en" word="recede" freq="303.3" >
+ 
+<a class="word dynamictext" href="/dictionary/recede">recede</a>	
+<div class="definition">pull back or move away or backward</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry339"
+ lang="en" word="recent" freq="48.9" >
+ 
+<a class="word dynamictext" href="/dictionary/recent">recent</a>	
+<div class="definition">of the immediate past or just previous to the present time</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry340"
+ lang="en" word="reckless" freq="323.8" >
+ 
+<a class="word dynamictext" href="/dictionary/reckless">reckless</a>	
+<div class="definition">marked by defiant disregard for danger or consequences</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry341"
+ lang="en" word="recline" freq="1156.7" >
+ 
+<a class="word dynamictext" href="/dictionary/recline">recline</a>	
+<div class="definition">move the upper body backwards and down</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry342"
+ lang="en" word="redeem" freq="295.81" >
+ 
+<a class="word dynamictext" href="/dictionary/redeem">redeem</a>	
+<div class="definition">exchange or buy back for money; under threat</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry343"
+ lang="en" word="refer" freq="48.13" >
+ 
+<a class="word dynamictext" href="/dictionary/refer">refer</a>	
+<div class="definition">make a remark that calls attention to</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry344"
+ lang="en" word="reform" freq="93.38" >
+ 
+<a class="word dynamictext" href="/dictionary/reform">reform</a>	
+<div class="definition">make changes for improvement to remove abuse and injustices</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry345"
+ lang="en" word="refrain" freq="419.99" >
+ 
+<a class="word dynamictext" href="/dictionary/refrain">refrain</a>	
+<div class="definition">resist doing something</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry346"
+ lang="en" word="rehabilitate" freq="1745.29" >
+ 
+<a class="word dynamictext" href="/dictionary/rehabilitate">rehabilitate</a>	
+<div class="definition">help to readapt, as to a former state of health or repute</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry347"
+ lang="en" word="reject" freq="143.78" >
+ 
+<a class="word dynamictext" href="/dictionary/reject">reject</a>	
+<div class="definition">refuse to accept or acknowledge</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry" id="entry348"
+ lang="en" word="related" freq="146.88" >
+ 
+<a class="word dynamictext" href="/dictionary/related">related</a>	
+<div class="definition">connected logically or causally or by shared characteristics</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry349"
+ lang="en" word="relieve" freq="56.22" >
+ 
+<a class="word dynamictext" href="/dictionary/relieve">relieve</a>	
+<div class="definition">free from a burden, evil, or distress</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry350"
+ lang="en" word="reluctant" freq="226.55" >
+ 
+<a class="word dynamictext" href="/dictionary/reluctant">reluctant</a>	
+<div class="definition">not eager</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry351"
+ lang="en" word="repetition" freq="542.62" >
+ 
+<a class="word dynamictext" href="/dictionary/repetition">repetition</a>	
+<div class="definition">the act of doing or performing again</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry352"
+ lang="en" word="reptile" freq="885.61" >
+ 
+<a class="word dynamictext" href="/dictionary/reptile">reptile</a>	
+<div class="definition">a cold-blooded vertebrate including snakes and lizards</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry353"
+ lang="en" word="resent" freq="199.7" >
+ 
+<a class="word dynamictext" href="/dictionary/resent">resent</a>	
+<div class="definition">feel bitter or indignant about</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry354"
+ lang="en" word="resign" freq="138.36" >
+ 
+<a class="word dynamictext" href="/dictionary/resign">resign</a>	
+<div class="definition">accept as inevitable</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry355"
+ lang="en" word="resist" freq="79.92" >
+ 
+<a class="word dynamictext" href="/dictionary/resist">resist</a>	
+<div class="definition">withstand the force of something</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry356"
+ lang="en" word="respond" freq="131.7" >
+ 
+<a class="word dynamictext" href="/dictionary/respond">respond</a>	
+<div class="definition">show a reaction to something</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry357"
+ lang="en" word="resume" freq="131.92" >
+ 
+<a class="word dynamictext" href="/dictionary/resume">resume</a>	
+<div class="definition">take up or begin anew</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry358"
+ lang="en" word="retain" freq="114.63" >
+ 
+<a class="word dynamictext" href="/dictionary/retain">retain</a>	
+<div class="definition">secure and keep for possible future use or application</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry359"
+ lang="en" word="reveal" freq="77.23" >
+ 
+<a class="word dynamictext" href="/dictionary/reveal">reveal</a>	
+<div class="definition">make visible</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry360"
+ lang="en" word="revise" freq="311.02" >
+ 
+<a class="word dynamictext" href="/dictionary/revise">revise</a>	
+<div class="definition">make changes to</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry361"
+ lang="en" word="revive" freq="184.91" >
+ 
+<a class="word dynamictext" href="/dictionary/revive">revive</a>	
+<div class="definition">cause to regain consciousness</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry362"
+ lang="en" word="rival" freq="108.72" >
+ 
+<a class="word dynamictext" href="/dictionary/rival">rival</a>	
+<div class="definition">the contestant you hope to defeat</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry363"
+ lang="en" word="roam" freq="602.74" >
+ 
+<a class="word dynamictext" href="/dictionary/roam">roam</a>	
+<div class="definition">move about aimlessly or without any destination</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry364"
+ lang="en" word="rural" freq="348.12" >
+ 
+<a class="word dynamictext" href="/dictionary/rural">rural</a>	
+<div class="definition">living in or characteristic of farming or country life</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry365"
+ lang="en" word="sacred" freq="107.53" >
+ 
+<a class="word dynamictext" href="/dictionary/sacred">sacred</a>	
+<div class="definition">made or declared or believed to be holy</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry366"
+ lang="en" word="scald" freq="1671.1" >
+ 
+<a class="word dynamictext" href="/dictionary/scald">scald</a>	
+<div class="definition">burn with a hot liquid or steam</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry367"
+ lang="en" word="scarce" freq="49.44" >
+ 
+<a class="word dynamictext" href="/dictionary/scarce">scarce</a>	
+<div class="definition">deficient in quantity or number compared with the demand</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry368"
+ lang="en" word="scorch" freq="844.81" >
+ 
+<a class="word dynamictext" href="/dictionary/scorch">scorch</a>	
+<div class="definition">burn slightly and superficially so as to affect color</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry369"
+ lang="en" word="scowl" freq="782.86" >
+ 
+<a class="word dynamictext" href="/dictionary/scowl">scowl</a>	
+<div class="definition">frown with displeasure</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry370"
+ lang="en" word="security" freq="77.44" >
+ 
+<a class="word dynamictext" href="/dictionary/security">security</a>	
+<div class="definition">the state of being free from danger or injury</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry371"
+ lang="en" word="sensitive" freq="224.09" >
+ 
+<a class="word dynamictext" href="/dictionary/sensitive">sensitive</a>	
+<div class="definition">responsive to physical stimuli</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry372"
+ lang="en" word="severity" freq="512.7" >
+ 
+<a class="word dynamictext" href="/dictionary/severity">severity</a>	
+<div class="definition">excessive sternness</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry373"
+ lang="en" word="shriek" freq="276" >
+ 
+<a class="word dynamictext" href="/dictionary/shriek">shriek</a>	
+<div class="definition">sharp piercing cry</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry374"
+ lang="en" word="shrill" freq="406.16" >
+ 
+<a class="word dynamictext" href="/dictionary/shrill">shrill</a>	
+<div class="definition">having or emitting a high-pitched and sharp tone or tones</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry375"
+ lang="en" word="signify" freq="67.89" >
+ 
+<a class="word dynamictext" href="/dictionary/signify">signify</a>	
+<div class="definition">denote or connote</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry376"
+ lang="en" word="sinister" freq="721.6" >
+ 
+<a class="word dynamictext" href="/dictionary/sinister">sinister</a>	
+<div class="definition">wicked, evil, or dishonorable</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry377"
+ lang="en" word="site" freq="94.05" >
+ 
+<a class="word dynamictext" href="/dictionary/site">site</a>	
+<div class="definition">the piece of land on which something is located</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry378"
+ lang="en" word="skim" freq="927.57" >
+ 
+<a class="word dynamictext" href="/dictionary/skim">skim</a>	
+<div class="definition">remove from the surface</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry379"
+ lang="en" word="slender" freq="252.96" >
+ 
+<a class="word dynamictext" href="/dictionary/slender">slender</a>	
+<div class="definition">having little width in proportion to the length or height</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry380"
+ lang="en" word="sneer" freq="401.65" >
+ 
+<a class="word dynamictext" href="/dictionary/sneer">sneer</a>	
+<div class="definition">a facial expression of contempt or scorn</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry381"
+ lang="en" word="soar" freq="431.09" >
+ 
+<a class="word dynamictext" href="/dictionary/soar">soar</a>	
+<div class="definition">rise rapidly</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry382"
+ lang="en" word="solitary" freq="267.87" >
+ 
+<a class="word dynamictext" href="/dictionary/solitary">solitary</a>	
+<div class="definition">not growing or living in groups or colonies</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry383"
+ lang="en" word="soothe" freq="287.17" >
+ 
+<a class="word dynamictext" href="/dictionary/soothe">soothe</a>	
+<div class="definition">cause to feel better</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry384"
+ lang="en" word="source" freq="77.91" >
+ 
+<a class="word dynamictext" href="/dictionary/source">source</a>	
+<div class="definition">the place where something begins</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry385"
+ lang="en" word="spontaneous" freq="532.42" >
+ 
+<a class="word dynamictext" href="/dictionary/spontaneous">spontaneous</a>	
+<div class="definition">said or done without having been planned in advance</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry386"
+ lang="en" word="spouse" freq="1011.89" >
+ 
+<a class="word dynamictext" href="/dictionary/spouse">spouse</a>	
+<div class="definition">a person's partner in marriage</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry387"
+ lang="en" word="squander" freq="1592.83" >
+ 
+<a class="word dynamictext" href="/dictionary/squander">squander</a>	
+<div class="definition">spend thoughtlessly; throw away</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry388"
+ lang="en" word="stationary" freq="1485.28" >
+ 
+<a class="word dynamictext" href="/dictionary/stationary">stationary</a>	
+<div class="definition">not capable of being moved</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry389"
+ lang="en" word="subsequent" freq="166.66" >
+ 
+<a class="word dynamictext" href="/dictionary/subsequent">subsequent</a>	
+<div class="definition">following in time or order</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry390"
+ lang="en" word="subside" freq="551.97" >
+ 
+<a class="word dynamictext" href="/dictionary/subside">subside</a>	
+<div class="definition">wear off or die down</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry391"
+ lang="en" word="summit" freq="211.74" >
+ 
+<a class="word dynamictext" href="/dictionary/summit">summit</a>	
+<div class="definition">the top or extreme point of something</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry392"
+ lang="en" word="surpass" freq="346.78" >
+ 
+<a class="word dynamictext" href="/dictionary/surpass">surpass</a>	
+<div class="definition">be or do something to a greater degree</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry393"
+ lang="en" word="surplus" freq="626.29" >
+ 
+<a class="word dynamictext" href="/dictionary/surplus">surplus</a>	
+<div class="definition">a quantity much larger than is needed</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry394"
+ lang="en" word="survive" freq="116.5" >
+ 
+<a class="word dynamictext" href="/dictionary/survive">survive</a>	
+<div class="definition">continue in existence after</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry395"
+ lang="en" word="swarm" freq="342.29" >
+ 
+<a class="word dynamictext" href="/dictionary/swarm">swarm</a>	
+<div class="definition">a group of many things in the air or on the ground</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry396"
+ lang="en" word="symbol" freq="157.66" >
+ 
+<a class="word dynamictext" href="/dictionary/symbol">symbol</a>	
+<div class="definition">something visible that represents something invisible</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry397"
+ lang="en" word="sympathetic" freq="320.7" >
+ 
+<a class="word dynamictext" href="/dictionary/sympathetic">sympathetic</a>	
+<div class="definition">expressing compassion or friendly fellow feelings</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry398"
+ lang="en" word="tact" freq="611.38" >
+ 
+<a class="word dynamictext" href="/dictionary/tact">tact</a>	
+<div class="definition">consideration in dealing with others</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry399"
+ lang="en" word="talent" freq="144.72" >
+ 
+<a class="word dynamictext" href="/dictionary/talent">talent</a>	
+<div class="definition">natural abilities or qualities</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry400"
+ lang="en" word="temperate" freq="725.18" >
+ 
+<a class="word dynamictext" href="/dictionary/temperate">temperate</a>	
+<div class="definition">not extreme</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry401"
+ lang="en" word="tempest" freq="367.17" >
+ 
+<a class="word dynamictext" href="/dictionary/tempest">tempest</a>	
+<div class="definition">a violent commotion or disturbance</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry402"
+ lang="en" word="tempt" freq="110.31" >
+ 
+<a class="word dynamictext" href="/dictionary/tempt">tempt</a>	
+<div class="definition">dispose, incline, or entice to</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry403"
+ lang="en" word="tendency" freq="177" >
+ 
+<a class="word dynamictext" href="/dictionary/tendency">tendency</a>	
+<div class="definition">an inclination to do something</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry404"
+ lang="en" word="theory" freq="75.57" >
+ 
+<a class="word dynamictext" href="/dictionary/theory">theory</a>	
+<div class="definition">a belief that can guide behavior</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry405"
+ lang="en" word="thorough" freq="95.64" >
+ 
+<a class="word dynamictext" href="/dictionary/thorough">thorough</a>	
+<div class="definition">painstakingly careful and accurate</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry406"
+ lang="en" word="threat" freq="58.39" >
+ 
+<a class="word dynamictext" href="/dictionary/threat">threat</a>	
+<div class="definition">declaration of an intention to inflict harm on another</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry407"
+ lang="en" word="thrifty" freq="1781.02" >
+ 
+<a class="word dynamictext" href="/dictionary/thrifty">thrifty</a>	
+<div class="definition">mindful of the future in spending money</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry408"
+ lang="en" word="thrust" freq="146.56" >
+ 
+<a class="word dynamictext" href="/dictionary/thrust">thrust</a>	
+<div class="definition">push forcefully</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry409"
+ lang="en" word="toil" freq="179.49" >
+ 
+<a class="word dynamictext" href="/dictionary/toil">toil</a>	
+<div class="definition">work hard</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry410"
+ lang="en" word="topic" freq="252.18" >
+ 
+<a class="word dynamictext" href="/dictionary/topic">topic</a>	
+<div class="definition">the subject matter of a conversation or discussion</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry411"
+ lang="en" word="torment" freq="280.21" >
+ 
+<a class="word dynamictext" href="/dictionary/torment">torment</a>	
+<div class="definition">intense feelings of suffering; acute mental or physical pain</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry412"
+ lang="en" word="torrent" freq="414.51" >
+ 
+<a class="word dynamictext" href="/dictionary/torrent">torrent</a>	
+<div class="definition">an overwhelming number or amount</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry413"
+ lang="en" word="tradition" freq="90.63" >
+ 
+<a class="word dynamictext" href="/dictionary/tradition">tradition</a>	
+<div class="definition">a specific practice of long standing</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry414"
+ lang="en" word="tragedy" freq="192.14" >
+ 
+<a class="word dynamictext" href="/dictionary/tragedy">tragedy</a>	
+<div class="definition">an event resulting in great loss and misfortune</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry415"
+ lang="en" word="traitor" freq="359.61" >
+ 
+<a class="word dynamictext" href="/dictionary/traitor">traitor</a>	
+<div class="definition">a person who says one thing and does another</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry416"
+ lang="en" word="transmit" freq="256.88" >
+ 
+<a class="word dynamictext" href="/dictionary/transmit">transmit</a>	
+<div class="definition">send from one person or place to another</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry417"
+ lang="en" word="transparent" freq="457.78" >
+ 
+<a class="word dynamictext" href="/dictionary/transparent">transparent</a>	
+<div class="definition">able to be seen through with clarity</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry418"
+ lang="en" word="trifle" freq="168.73" >
+ 
+<a class="word dynamictext" href="/dictionary/trifle">trifle</a>	
+<div class="definition">a detail that is considered insignificant</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry419"
+ lang="en" word="tumult" freq="378.61" >
+ 
+<a class="word dynamictext" href="/dictionary/tumult">tumult</a>	
+<div class="definition">a state of commotion and noise and confusion</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry420"
+ lang="en" word="typical" freq="242.92" >
+ 
+<a class="word dynamictext" href="/dictionary/typical">typical</a>	
+<div class="definition">exhibiting the qualities that identify a group or kind</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry421"
+ lang="en" word="tyrant" freq="358.9" >
+ 
+<a class="word dynamictext" href="/dictionary/tyrant">tyrant</a>	
+<div class="definition">a cruel and oppressive dictator</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry422"
+ lang="en" word="unaccustomed" freq="1383.86" >
+ 
+<a class="word dynamictext" href="/dictionary/unaccustomed">unaccustomed</a>	
+<div class="definition">not habituated to; unfamiliar with</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry423"
+ lang="en" word="unanimous" freq="437.35" >
+ 
+<a class="word dynamictext" href="/dictionary/unanimous">unanimous</a>	
+<div class="definition">in complete agreement</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry424"
+ lang="en" word="undeniable" freq="1296.69" >
+ 
+<a class="word dynamictext" href="/dictionary/undeniable">undeniable</a>	
+<div class="definition">not possible to contradict</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry425"
+ lang="en" word="underdog" freq="4713.64" >
+ 
+<a class="word dynamictext" href="/dictionary/underdog">underdog</a>	
+<div class="definition">one who is at a disadvantage and expected to lose</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry426"
+ lang="en" word="underestimate" freq="2639.83" >
+ 
+<a class="word dynamictext" href="/dictionary/underestimate">underestimate</a>	
+<div class="definition">make too low an approximation of</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry" id="entry427"
+ lang="en" word="undernourished" freq="36821.28" >
+ 
+<a class="word dynamictext" href="/dictionary/undernourished">undernourished</a>	
+<div class="definition">not getting adequate food</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry428"
+ lang="en" word="undoubtedly" freq="254.79" >
+ 
+<a class="word dynamictext" href="/dictionary/undoubtedly">undoubtedly</a>	
+<div class="definition">certainly</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry429"
+ lang="en" word="unearth" freq="2464.38" >
+ 
+<a class="word dynamictext" href="/dictionary/unearth">unearth</a>	
+<div class="definition">recover through digging</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry430"
+ lang="en" word="uneasy" freq="191.68" >
+ 
+<a class="word dynamictext" href="/dictionary/uneasy">uneasy</a>	
+<div class="definition">causing or fraught with or showing anxiety</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry" id="entry431"
+ lang="en" word="uneventful" freq="3730.67" >
+ 
+<a class="word dynamictext" href="/dictionary/uneventful">uneventful</a>	
+<div class="definition">marked by no noteworthy or significant events</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry432"
+ lang="en" word="unforeseen" freq="2294.68" >
+ 
+<a class="word dynamictext" href="/dictionary/unforeseen">unforeseen</a>	
+<div class="definition">not anticipated</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry433"
+ lang="en" word="unify" freq="1215.1" >
+ 
+<a class="word dynamictext" href="/dictionary/unify">unify</a>	
+<div class="definition">join or combine</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry434"
+ lang="en" word="unite" freq="25.95" >
+ 
+<a class="word dynamictext" href="/dictionary/unite">unite</a>	
+<div class="definition">join or combine</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry435"
+ lang="en" word="unruly" freq="2169.68" >
+ 
+<a class="word dynamictext" href="/dictionary/unruly">unruly</a>	
+<div class="definition">unable to be governed or controlled</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry436"
+ lang="en" word="unstable" freq="1991.12" >
+ 
+<a class="word dynamictext" href="/dictionary/unstable">unstable</a>	
+<div class="definition">subject to change; variable</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry" id="entry437"
+ lang="en" word="untidy" freq="2363.44" >
+ 
+<a class="word dynamictext" href="/dictionary/untidy">untidy</a>	
+<div class="definition">not neat and tidy</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry438"
+ lang="en" word="upholstery" freq="8174.8" >
+ 
+<a class="word dynamictext" href="/dictionary/upholstery">upholstery</a>	
+<div class="definition">covering on a piece of furniture</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry439"
+ lang="en" word="urban" freq="365.8" >
+ 
+<a class="word dynamictext" href="/dictionary/urban">urban</a>	
+<div class="definition">relating to a city or densely populated area</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry440"
+ lang="en" word="urgent" freq="325.85" >
+ 
+<a class="word dynamictext" href="/dictionary/urgent">urgent</a>	
+<div class="definition">compelling immediate action</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry441"
+ lang="en" word="utensil" freq="1439.57" >
+ 
+<a class="word dynamictext" href="/dictionary/utensil">utensil</a>	
+<div class="definition">an implement for practical use</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry442"
+ lang="en" word="utilize" freq="964.5" >
+ 
+<a class="word dynamictext" href="/dictionary/utilize">utilize</a>	
+<div class="definition">put into service</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry443"
+ lang="en" word="utter" freq="45.01" >
+ 
+<a class="word dynamictext" href="/dictionary/utter">utter</a>	
+<div class="definition">without qualification</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry444"
+ lang="en" word="vacant" freq="306.5" >
+ 
+<a class="word dynamictext" href="/dictionary/vacant">vacant</a>	
+<div class="definition">without an occupant or incumbent</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry445"
+ lang="en" word="vaccinate" freq="2292.9" >
+ 
+<a class="word dynamictext" href="/dictionary/vaccinate">vaccinate</a>	
+<div class="definition">produce immunity in by inoculation</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry446"
+ lang="en" word="vague" freq="149.47" >
+ 
+<a class="word dynamictext" href="/dictionary/vague">vague</a>	
+<div class="definition">lacking clarity or distinctness</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry447"
+ lang="en" word="vain" freq="60.34" >
+ 
+<a class="word dynamictext" href="/dictionary/vain">vain</a>	
+<div class="definition">having an exaggerated sense of self-importance</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry448"
+ lang="en" word="valiant" freq="543.99" >
+ 
+<a class="word dynamictext" href="/dictionary/valiant">valiant</a>	
+<div class="definition">having or showing heroism or courage</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry449"
+ lang="en" word="valid" freq="261.13" >
+ 
+<a class="word dynamictext" href="/dictionary/valid">valid</a>	
+<div class="definition">well grounded in logic or truth or having legal force</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry450"
+ lang="en" word="valor" freq="1030.2" >
+ 
+<a class="word dynamictext" href="/dictionary/valor">valor</a>	
+<div class="definition">courage when facing danger</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry451"
+ lang="en" word="vandal" freq="5086.76" >
+ 
+<a class="word dynamictext" href="/dictionary/vandal">vandal</a>	
+<div class="definition">someone who willfully destroys or defaces property</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry452"
+ lang="en" word="vanish" freq="162.79" >
+ 
+<a class="word dynamictext" href="/dictionary/vanish">vanish</a>	
+<div class="definition">become invisible or unnoticeable</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry453"
+ lang="en" word="vapor" freq="869.94" >
+ 
+<a class="word dynamictext" href="/dictionary/vapor">vapor</a>	
+<div class="definition">a visible suspension in the air of particles of a substance</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry454"
+ lang="en" word="variety" freq="101.19" >
+ 
+<a class="word dynamictext" href="/dictionary/variety">variety</a>	
+<div class="definition">a category of things distinguished by a common quality</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry455"
+ lang="en" word="vast" freq="74.91" >
+ 
+<a class="word dynamictext" href="/dictionary/vast">vast</a>	
+<div class="definition">unusually great in size or amount or extent or scope</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry456"
+ lang="en" word="vein" freq="240.96" >
+ 
+<a class="word dynamictext" href="/dictionary/vein">vein</a>	
+<div class="definition">a blood vessel that carries blood toward the heart</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry457"
+ lang="en" word="ventilate" freq="1196.2" >
+ 
+<a class="word dynamictext" href="/dictionary/ventilate">ventilate</a>	
+<div class="definition">furnish with an opening to allow air to circulate or escape</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry458"
+ lang="en" word="venture" freq="98.96" >
+ 
+<a class="word dynamictext" href="/dictionary/venture">venture</a>	
+<div class="definition">an undertaking with an uncertain outcome</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry459"
+ lang="en" word="verdict" freq="468.67" >
+ 
+<a class="word dynamictext" href="/dictionary/verdict">verdict</a>	
+<div class="definition">findings of a jury on issues submitted to it for decision</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry460"
+ lang="en" word="verify" freq="663.22" >
+ 
+<a class="word dynamictext" href="/dictionary/verify">verify</a>	
+<div class="definition">confirm the truth of</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry461"
+ lang="en" word="vermin" freq="2233.59" >
+ 
+<a class="word dynamictext" href="/dictionary/vermin">vermin</a>	
+<div class="definition">any of various small animals or insects that are pests</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry462"
+ lang="en" word="verse" freq="104.61" >
+ 
+<a class="word dynamictext" href="/dictionary/verse">verse</a>	
+<div class="definition">a piece of poetry</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry463"
+ lang="en" word="vertical" freq="616.72" >
+ 
+<a class="word dynamictext" href="/dictionary/vertical">vertical</a>	
+<div class="definition">at right angles to the plane of the horizon or a base line</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry464"
+ lang="en" word="vessel" freq="62.35" >
+ 
+<a class="word dynamictext" href="/dictionary/vessel">vessel</a>	
+<div class="definition">an object used as a container, especially for liquids</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry465"
+ lang="en" word="vicinity" freq="439.82" >
+ 
+<a class="word dynamictext" href="/dictionary/vicinity">vicinity</a>	
+<div class="definition">a surrounding or nearby region</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry466"
+ lang="en" word="vicious" freq="476.97" >
+ 
+<a class="word dynamictext" href="/dictionary/vicious">vicious</a>	
+<div class="definition">having the nature of evildoing</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry467"
+ lang="en" word="victorious" freq="520.21" >
+ 
+<a class="word dynamictext" href="/dictionary/victorious">victorious</a>	
+<div class="definition">having won</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry468"
+ lang="en" word="vigor" freq="148.43" >
+ 
+<a class="word dynamictext" href="/dictionary/vigor">vigor</a>	
+<div class="definition">forceful exertion</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry469"
+ lang="en" word="villain" freq="361.64" >
+ 
+<a class="word dynamictext" href="/dictionary/villain">villain</a>	
+<div class="definition">someone who does evil deliberately</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry470"
+ lang="en" word="violent" freq="58.74" >
+ 
+<a class="word dynamictext" href="/dictionary/violent">violent</a>	
+<div class="definition">acting with great force or energy or emotional intensity</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry471"
+ lang="en" word="visible" freq="87.95" >
+ 
+<a class="word dynamictext" href="/dictionary/visible">visible</a>	
+<div class="definition">capable of being seen or open to easy view</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry472"
+ lang="en" word="vision" freq="93.52" >
+ 
+<a class="word dynamictext" href="/dictionary/vision">vision</a>	
+<div class="definition">the ability to see</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry473"
+ lang="en" word="vital" freq="170.79" >
+ 
+<a class="word dynamictext" href="/dictionary/vital">vital</a>	
+<div class="definition">performing an essential function in the living body</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry474"
+ lang="en" word="vocation" freq="926.7" >
+ 
+<a class="word dynamictext" href="/dictionary/vocation">vocation</a>	
+<div class="definition">the particular occupation for which you are trained</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry475"
+ lang="en" word="volunteer" freq="122.02" >
+ 
+<a class="word dynamictext" href="/dictionary/volunteer">volunteer</a>	
+<div class="definition">a person who performs work done by choice</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry476"
+ lang="en" word="vulnerable" freq="685.27" >
+ 
+<a class="word dynamictext" href="/dictionary/vulnerable">vulnerable</a>	
+<div class="definition">capable of being wounded or hurt</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry" id="entry477"
+ lang="en" word="wad" freq="765.36" >
+ 
+<a class="word dynamictext" href="/dictionary/wad">wad</a>	
+<div class="definition">a small mass of soft material</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry478"
+ lang="en" word="wager" freq="1042.81" >
+ 
+<a class="word dynamictext" href="/dictionary/wager">wager</a>	
+<div class="definition">the act of gambling</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry479"
+ lang="en" word="warden" freq="911.02" >
+ 
+<a class="word dynamictext" href="/dictionary/warden">warden</a>	
+<div class="definition">the chief official in charge of a prison</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry480"
+ lang="en" word="wary" freq="603.41" >
+ 
+<a class="word dynamictext" href="/dictionary/wary">wary</a>	
+<div class="definition">marked by keen caution and watchful prudence</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry" id="entry481"
+ lang="en" word="wasp" freq="3960.57" >
+ 
+<a class="word dynamictext" href="/dictionary/wasp">wasp</a>	
+<div class="definition">social or solitary hymenopterans typically having a slender body with the abdomen attached by a narrow stalk and having a formidable sting</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry482"
+ lang="en" word="weary" freq="84.74" >
+ 
+<a class="word dynamictext" href="/dictionary/weary">weary</a>	
+<div class="definition">physically and mentally fatigued</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry483"
+ lang="en" word="weird" freq="698.72" >
+ 
+<a class="word dynamictext" href="/dictionary/weird">weird</a>	
+<div class="definition">strikingly odd or unusual</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry" id="entry484"
+ lang="en" word="whirling" freq="907.6" >
+ 
+<a class="word dynamictext" href="/dictionary/whirling">whirling</a>	
+<div class="definition">the act of rotating in a circle or spiral</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry485"
+ lang="en" word="wholesale" freq="790.06" >
+ 
+<a class="word dynamictext" href="/dictionary/wholesale">wholesale</a>	
+<div class="definition">the selling of goods to merchants</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry486"
+ lang="en" word="witty" freq="762.75" >
+ 
+<a class="word dynamictext" href="/dictionary/witty">witty</a>	
+<div class="definition">demonstrating striking cleverness and humor</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry487"
+ lang="en" word="wobble" freq="3178.23" >
+ 
+<a class="word dynamictext" href="/dictionary/wobble">wobble</a>	
+<div class="definition">move sideways or in an unsteady way</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry488"
+ lang="en" word="wrath" freq="215.61" >
+ 
+<a class="word dynamictext" href="/dictionary/wrath">wrath</a>	
+<div class="definition">intense anger</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry489"
+ lang="en" word="wretched" freq="179.78" >
+ 
+<a class="word dynamictext" href="/dictionary/wretched">wretched</a>	
+<div class="definition">deserving or inciting pity</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+
+
+
+
+<li class="entry learnable" id="entry490"
+ lang="en" word="skim" freq="927.57" >
+ 
+<a class="word dynamictext" href="/dictionary/skim">skim</a>	
+<div class="definition">remove from the surface</div>
+<div class="details">
+
+
+</div>
+</li>
+
+
+	</ol>
+	
+	</section>
+	
+	
+	<div class="modified-dates">
+	Created on March 25, 2012
+	(updated March 27, 2012)
+	</div>
+		
+	</div>
+</div>
+
+
+
+</div>
+</div>
+
+
+<section class="signup-tout center clearfloat sectionbg">
+<div class="limited-width ">
+	<h2>Sign up now (it’s free!)</h2>
+	<div class="margin2 margin2r col8" >
+		<p>Whether you’re a teacher or a learner, 
+		Vocabulary.com can put you or your class 
+		on the path to systematic vocabulary improvement.
+		<br>
+		</p>
+		
+		<a role="button" class="signup button green" href="/signup/">Get started</a>
+		
+	</div>
+</div>
+</section>
+
+
+<footer class="page-footer">
+<nav class="sitelinks limited-width hide-mobile clearfloat screen-only">
+	<div class="col2 ">
+			<h3>For Everyone</h3>
+			<ul>
+			<li><a href="/play/">Play the Challenge</a></li>
+			<li><a href="/lists/">Vocabulary Lists</a></li>
+			<li><a href="/dictionary/">Dictionary</a></li>				
+			<li><a href="/articles/chooseyourwords/">Choose Your Words</a></li>
+			<li><a href="/jam/">Join a Vocabulary Jam</a></li>	
+			<li>&nbsp;</li>			
+			</ul>				
+		</div>
+			
+		<div class="col2 ">
+			<h3><a href="/membership/">For Educators</a></h3>
+			<ul>
+			<li><a href="/membership/">Classroom &amp; Site License</a></li>		
+			<li><a href="/membership/teachers/">Pricing</a></li>
+			<li><a href="/membership/quote/">Contact Sales</a></li>
+			<li><a href="/membership/success-stories/">Success Stories</a></li>
+			<li><a href="/professional-development/">Professional Development</a></li> 
+			<li><a href="/membership/research/">Research</a></li> 
+			</ul>				
+		</div>
+		
+		<div class="col2 ">
+			<h3><a href="/help/">Help</a></h3>
+			<ul>
+			<li><a href="/help/">Help Articles / FAQ</a></li>			
+			<li><a href="/help/videos/">How-to Videos</a></li>
+			<li><a href="/help/webinars">Webinars</a></li>				
+			<li><a href="/help/contactus">Contact Support</a></li>
+			<li>&nbsp;</li>
+			</ul>				
+		</div>
+					
+		<div class="col2 ">
+			<h3><a href="/leaderboards/">Leaderboards</a></h3>
+			<ul>
+			<li><a href="/bowl/">Vocabulary Bowl</a></li>	
+			<li><a href="/leaderboards/bowl/">Bowl Leaders</a></li>					
+			<li><a href="/leaderboards/today/">Today's Leaders</a></li>
+			<li><a href="/leaderboards/thisweek/">Weekly Leaders</a></li>
+			<li><a href="/leaderboards/thismonth/">Monthly Leaders</a></li>						
+			</ul>						
+		</div>	
+				
+		<div class="col2 ">
+			<h3><a href="/blog/">Connect</a></h3>
+			<ul>
+			<li><a href="/blog/">Vocabulary.com Blog</a></li>
+			<li><a href="https://twitter.com/VocabularyCom">Twitter</a></li>
+			<li><a href="https://www.facebook.com/vocabularycom">Facebook</a></li>
+			
+			</ul>				
+		</div>
+		
+		<div class="col2 ">
+			<h3><a href="/about/">Our Story</a></h3>
+			<ul>
+			<li><a href="/about/">Our Mission</a></li>
+			<li><a href="/about/team/">Team / Jobs</a></li>
+			<li><a href="/about/news/">News &amp; Events</a></li>				
+			<li><a href="/about/partnerships/">Partnerships</a></li>	
+			</ul>				
+		</div>
+
+</nav>
+<nav class="legal limited-width clearfloat">
+		<a href="/terms/">&copy; Vocabulary.com</a>
+		<a href="/terms/" class="screen-only">Terms of Use</a>
+		<a href="/privacy/" class="screen-only">Privacy Policy</a>
+		
+		<a href="/auth/admin" rel="nofollow" style="position: absolute; top: 0px; left: -1000px; width:1px;height:1px"><img src="//cdn.vocab.com/images/clear-16y9b5d.gif" ></a>
+</nav></footer>
+
+<nav class="sitemap screen-only">
+<div class="scrollable">
+<div>
+	<div class="limited-width mobile-5050 pad2y">
+	<div class="col9">
+	<div class="col9">
+		<div class="col4 pad1x">
+			<h3>For Everyone</h3>
+			<ul>
+			<li><a href="/play/">Play the Challenge</a></li>
+			<li><a href="/lists/">Vocabulary Lists</a></li>
+			<li><a href="/dictionary/">Dictionary</a></li>				
+			<li><a href="/articles/chooseyourwords/">Choose Your Words</a></li>
+			<li><a href="/jam/">Join a Vocabulary Jam</a></li>	
+			</ul>				
+		</div>
+			
+		<div class="col4 pad1x">
+			<h3><a href="/membership/">For Educators</a></h3>
+			<ul>
+			<li><a href="/membership/">Classroom &amp; Site License</a></li>		
+			<li><a href="/membership/teachers/">Pricing</a></li>
+			<li><a href="/membership/quote/">Contact Sales</a></li>
+			<li><a href="/membership/success-stories/">Success Stories</a></li> 
+			<li><a href="/professional-development/">Professional Development</a></li> 
+			<li><a href="/membership/research/">Research</a></li> 
+			</ul>				
+		</div>
+		
+		<div class="col4 pad1x">
+			<h3><a href="/help/">Help</a></h3>
+			<ul>
+			<li><a href="/help/">Help Articles / FAQ</a></li>			
+			<li><a href="/help/videos/">How-to Videos</a></li>
+			<li><a href="/help/webinars">Webinars</a></li>				
+			<li><a href="/help/contactus">Contact Support</a></li>	
+			</ul>				
+		</div>
+
+  </div>
+  <div class="col9">
+					
+		<div class="col4 pad1x">
+			<h3><a href="/leaderboards/">Leaderboards</a></h3>
+			<ul>
+			<li><a href="/bowl/">Vocabulary Bowl</a></li>	
+			<li><a href="/leaderboards/bowl/">Bowl Leaders</a></li>		
+			<li><a href="/leaderboards/today/">Today's Leaders</a></li>
+			<li><a href="/leaderboards/thisweek/">Weekly Leaders</a></li>
+			<li><a href="/leaderboards/thismonth/">Monthly Leaders</a></li>						
+			</ul>						
+		</div>	
+		
+		<div class="col4 pad1x">
+			<h3><a href="/blog/">Connect</a></h3>
+			<ul>
+			<li><a href="/blog/">Vocabulary.com Blog</a></li>
+			<li><a href="https://twitter.com/VocabularyCom">Twitter</a></li>
+			<li><a href="https://www.facebook.com/vocabularycom">Facebook</a></li>
+			
+			</ul>				
+		</div>
+		
+		<div class="col4 pad1x">
+			<h3><a href="/about/">Our Story</a></h3>
+			<ul>
+			<li><a href="/about/">Our Mission</a></li>
+			<li><a href="/about/team/">Team / Jobs</a></li>
+			<li><a href="/about/news/">News &amp; Events</a></li>				
+			<li><a href="/about/partnerships/">Partnerships</a></li>	
+			</ul>				
+		</div>
+	</div>
+	</div>
+	
+	<div class="col3 pad1x">
+		
+		<div class="loggedout-only clearfloat signinoptions">
+			<h3><a href="/account/">My Account</a></h3>
+			<a role="button" class="sign-in button" href="/login/">Log in</a>
+			<a role="button" class="sign-up button green" href="/signup/">Sign up</a>
+		</div>
+		<ul class="account-menu loggedin-only">
+			
+			<h3><a href="/account/">My Account</a></h3>
+			<li><a href="/auth/logout"><i class="ss-logout"></i>Log Out</a></li>
+			<li>
+				<a href="/profiles/my"><i class="ss-user"></i>My Profile</a>			
+			</li>
+			<li class="perms-school-reports-only"><a href="/account/schools"><i class="ss-school ss-symbolicons-block"></i>Schools &amp; Teachers</a></li>
+			
+			<li class="nav-classes educator-only"><a href="/account/classes"><i class="ss-users"></i>My Classes</a></li>
+			
+			<li class="nav-assignments"><a href="/account/activities/"><i class="ss-attach"></i>Assignments &amp; Activities</a></li>
+			<li ><a href="/account/lists/"><i class="ss-list"></i>My Lists</a>
+			<ul>
+				<li><a href="/lists/"><i class="ss-search"></i>Find a List to Learn...</a></li>
+				<li><a href="/lists/new"><i class="ss-hospital ss-symbolicons-block"></i>Create a New List...</a></li>
+			</ul>
+			</li>
+			<li><a href="/progress/"><i class="ss-barchart"></i>My Progress</a>
+				<ul>
+					<li><a href="/account/progress/words/learning"><i class="ss-hiker ss-symbolicons-block"></i>Words I'm Learning</a></li>
+					<li><a href="/account/progress/words/trouble"><i class="ss-bullseye ss-symbolicons-block"></i>My Trouble Words</a></li>
+					<li><a href="/account/progress/words/mastered"><i class="ss-check ss-symbolicons-block"></i>Words I've Mastered</a></li>
+					<li><a href="/account/progress/achievements"><i class="ss-award ss-symbolicons-block"></i>My Achievements</a></li>
+				</ul>
+			</li>	
+			<li class="perms-user-admin-only"><a href="/account/users"><i class="ss-usergroup ss-symbolicons-block "></i>User Administration</a></li>
+			<li class="perms-auth-admin-only"><a href="/account/authentication"><i class="ss-key"></i>User Authentication</a></li>
+			<li>
+				<a href="/account/"><i class="ss-settings"></i>My Account</a>			
+			</li>
+			
+		</ul>
+	</div>
+	</div>		
+	<div class="copyright pad2y">				
+		<div class="limited-width">
+		<span>&copy; Vocabulary.com</span>			
+		<div class="terms">
+		<a href="/terms/">Terms of Use</a>
+		<a href="/privacy/">Privacy Policy</a>		
+		</div>
+		</div>
+	</div>	
+</div></div>			
+</nav>
+</div>
+
+<script>VCOM.q.push(['auth',function(auth){ if (auth.ima=='educator' || auth.ima=='other') { Module.after('vcom/npswidget',()=>modules.vcom.npswidget.show()); } }]);</script>
+<script>Module.after('vcom/helpwidget')</script>
+
+</body>
+</html>
